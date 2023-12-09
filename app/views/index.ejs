@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        <%= title %>
+    </title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1>
+                    <%= title %>
+                </h1>
+            </div>
+            <nav>
+                <ul>
+                    <li class="current"><a href="/">Home</a></li>
+                    <li><a href="/create-artwork">Create Artwork</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+        <h2>Artworks</h2>
+        <% if (artworks.length===0) { %>
+            <p>No artworks found.</p>
+            <% } else { %>
+                <% artworks.forEach(function(artwork){ %>
+                    <div class="artwork-card">
+                        <h3>
+                            <%= artwork.title %>
+                        </h3>
+                        <p>Medium: <%= artwork.medium %>
+                        </p>
+                        <p>Dimension: <%= artwork.dimension %>
+                        </p>
+                        <p>Price: <%= artwork.price %>
+                        </p>
+                        <a href="/update-artwork/<%= artwork.id %>" class="btn">Update</a>
+                        <button class="btn" onclick="deleteArtwork('<%= artwork.id %>')">Delete</button>
+                    </div>
+                    <% }); %>
+                        <% } %>
+    </div>
+
+    <footer>
+        <div> Made by Yuting</div>
+    </footer>
+
+    <script>
+        function deleteArtwork(artworkId) {
+            if (confirm('Are you sure you want to delete this artwork?')) {
+                fetch(`/artwork/${artworkId}`, { method: 'DELETE' })
+                    .then(response => {
+                        if (response.ok) {
+                            window.location.reload();
+                        } else {
+                            alert('Error deleting artwork');
+                        }
+                    })
+                    .catch(err => console.error('Error:', err));
+            }
+        }
+    </script>
+</body>
+
+</html>
