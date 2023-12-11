@@ -20,7 +20,7 @@ The hash will store fields such as ‘title’, ‘medium’, ‘dimension’, a
 See [definition of data structures](./definition%20of%20data%20structures.pdf) for details.
 
 ## APP
-Node + Express application that can create, display, modify and delete `Artwork Details Caching` in Redis.
+Node + Express application that can create, display, modify and delete the data structure in Redis.
 
 The user interface is in the localhost:3000/redis-cache page. Can be directed from the last navigation option in the home page.
 

@@ -15,23 +15,25 @@ async function connectRedis() {
     }
 }
 
-async function syncArtworksToRedis() {
+async function syncToRedis() {
     try {
         const db = getDb();
-        const artworks = await db.collection('Artwork').find().toArray();
+        const artists = await db.collection('Artist').find().toArray();
 
-        for (const artwork of artworks) {
-            await redisClient.hSet(
-                `artworkDetails:${artwork._id}`, {
-                title: artwork.title,
-                medium: artwork.medium,
-                dimension: artwork.dimension,
-                price: artwork.price.toString()
-            });
+        for (const artist of artists) {
+            if (artist.artworks.length > 3) {
+                for (const artworkID of artist.artworks) {
+                    // get the createionDate of the artwork from the Artwork collection
+                    const artwork = await db.collection('Artwork').findOne({ _id: artworkID });
+                    // add the artwork to the sorted set with the creationDate as the score
+                    const timestamp = new Date(artwork.creationDate).getTime();
+                    await redisClient.zAdd(`productiveArtistArtworks:${artist._id}:${artist.name}`, { score: timestamp, value: artworkID });
+                }
+            }
         }
-        console.log('Artworks synced to Redis successfully.');
+        console.log('Productive artists synced to Redis successfully.');
     } catch (error) {
-        console.error('Error syncing artworks to Redis:', error);
+        console.error('Error syncing productive artists to Redis:', error);
         throw error;
     }
 }
@@ -43,4 +45,4 @@ async function getRedisClient() {
     return redisClient;
 }
 
-module.exports = { connectRedis, syncArtworksToRedis, getRedisClient };
+module.exports = { connectRedis, syncToRedis, getRedisClient };

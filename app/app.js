@@ -7,7 +7,7 @@ let logger = require('morgan');
 
 let indexRouter = require('./routes/index');
 const { connectMongoDB } = require('./db/mongoConnection');
-const { connectRedis, syncArtworksToRedis } = require('./db/redisConnection');
+const { connectRedis, syncToRedis } = require('./db/redisConnection');
 
 let app = express();
 
@@ -20,7 +20,7 @@ async function initializeApp() {
     // establish Redis connection
     await connectRedis();
     console.log("Redis connected");
-    await syncArtworksToRedis();
+    await syncToRedis();
     console.log("Artworks synced to Redis");
 
     app.use(methodOverride('_method'));

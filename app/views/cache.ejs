@@ -19,30 +19,43 @@
             <nav>
                 <ul>
                     <li class="current"><a href="/">Home</a></li>
-                    <li><a href="/create-artwork-cache">Create Artwork In Redis Cache</a></li>
+                    <li><a href="/create-artist-cache">Create Artist In Redis Cache</a></li>
                 </ul>
             </nav>
         </div>
     </header>
 
     <div class="container">
-        <h2>Artworks</h2>
-        <% if (artworks.length===0) { %>
-            <p>No artworks found.</p>
+        <h2>Productive Artists</h2>
+        <% if (artists.length===0) { %>
+            <p>No artists found.</p>
             <% } else { %>
-                <% artworks.forEach(function(artwork){ %>
-                    <div class="artwork-card">
+                <% artists.forEach(function(artist){ %>
+                    <div class="artist-card">
                         <h3>
-                            <%= artwork.title %>
+                            <%= artist.artistName %>
                         </h3>
-                        <p>Medium: <%= artwork.medium %>
+                        <p>artistID: <%= artist.artistID %>
                         </p>
-                        <p>Dimension: <%= artwork.dimension %>
-                        </p>
-                        <p>Price: <%= artwork.price %>
-                        </p>
-                        <a href="/update-artwork-cache/<%= artwork.id %>" class="btn">Update</a>
-                        <button class="btn" onclick="deleteArtwork('<%= artwork.id %>')">Delete</button>
+                        <div>
+                            <% if (artist.artworkIDs && Array.isArray(artist.artworkIDs)) { %>
+                                <h4>Artworks:</h4>
+                                <ul>
+                                    <% artist.artworkIDs.forEach(function(artworkId) { %>
+                                        <li>
+                                            <%= artworkId %>
+                                        </li>
+                                        <% }); %>
+                                </ul>
+                                <% } else { %>
+                                    <p>No artworks available for this artist.</p>
+                                    <% } %>
+                        </div>
+                        <a href="/update-productive-artist/<%= artist.artistID %>/<%= artist.artistName %>"
+                            class="btn">Update</a>
+                        <button class="btn"
+                            onclick="deleteArtwork('<%= artist.artistID %>', '<%= artist.artistName %>')">Delete</button>
+
                     </div>
                     <% }); %>
                         <% } %>
@@ -53,14 +66,14 @@
     </footer>
 
     <script>
-        function deleteArtwork(artworkId) {
-            if (confirm('Are you sure you want to delete this artwork?')) {
-                fetch(`/artwork-cache/${artworkId}`, { method: 'DELETE' })
+        function deleteArtwork(artistID, artistName) {
+            if (confirm('Are you sure you want to delete this productive artist in Redis?')) {
+                fetch(`/productive-artist/${artistID}/${artistName}`, { method: 'DELETE' })
                     .then(response => {
                         if (response.ok) {
                             window.location.reload();
                         } else {
-                            alert('Error deleting artwork');
+                            alert('Error deleting productive artist.');
                         }
                     })
                     .catch(err => console.error('Error:', err));

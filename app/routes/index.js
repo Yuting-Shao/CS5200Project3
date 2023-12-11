@@ -18,99 +18,111 @@ const {
   deleteArtwork
 } = require('../db/dbOperations');
 
-router.get('/create-artwork-cache', (req, res) => {
-  res.render('createArtworkCache');
+router.get('/create-artist-cache', (req, res) => {
+  res.render('createArtistCache');
 });
 
 router.get('/redis-cache', async (req, res) => {
   try {
     const redisClient = await getRedisClient();
-    const keys = await redisClient.keys('artworkDetails:*');
-    const artworks = [];
+    const artistKeys = await redisClient.keys('productiveArtistArtworks:*');
+    const artists = [];
 
-    for (const key of keys) {
-      const artwork = await redisClient.hGetAll(key);
+    for (const key of artistKeys) {
+      const artistID = key.split(':')[1];
+      const artistName = key.split(':')[2];
+      const artworkIDs = await redisClient.zRange(key, 0, -1);
 
-      artwork.id = key.split(':')[1];
-      artworks.push(artwork);
+      artists.push({ artistID, artistName, artworkIDs });
     }
 
-    res.render('cache', { title: 'Artwork Cache in Redis', artworks });
+    res.render('cache', { title: 'Productive Artists in Redis', artists });
   } catch (err) {
     console.error(err);
-    res.status(500).render('errorPage', { error: 'Error fetching artworks' });
+    res.status(500).render('errorPage', { error: 'Error fetching artworks from Redis' });
   }
 });
 
+router.post('/create-productive-artist', async (req, res) => {
+  const { artistID, artistName, artworkIDs } = req.body;
 
-router.post('/artwork-cache', async (req, res) => {
-  const { id, title, medium, dimension, price } = req.body;
-
-  if (!id || !title || !medium || !dimension || isNaN(price)) {
-    return res.status(400).send('Invalid artwork data');
+  if (!artistID || !artistName || !artworkIDs) {
+    return res.status(400).send('Invalid artist data');
   }
+
+  const artworkIDList = artworkIDs.split(',').map(id => id.trim()).filter(id => id);
 
   try {
     const redisClient = await getRedisClient();
-    await redisClient.hSet(`artworkDetails:${id}`, {
-      title, medium, dimension, price: price.toString()
-    });
+
+    for (const [index, artworkID] of artworkIDList.entries()) {
+      await redisClient.zAdd(`productiveArtistArtworks:${artistID}:${artistName}`, {
+        score: index,
+        value: artworkID
+      });
+    }
+
     res.redirect('/redis-cache');
   } catch (err) {
     console.error(err);
-    res.status(500).send('Error creating/updating artwork');
+    res.status(500).send('Error creating/updating productive artist');
   }
 });
 
-router.delete('/artwork-cache/:id', async (req, res) => {
-  const { id } = req.params;
+router.delete('/productive-artist/:id/:name', async (req, res) => {
+  const { id, name } = req.params;
 
-  if (!id) {
-    return res.status(400).send('Invalid artwork ID');
+  if (!id || !name) {
+    return res.status(400).send('Invalid artist details');
   }
 
   try {
     const redisClient = await getRedisClient();
-    await redisClient.del(`artworkDetails:${id}`);
-    res.status(200).send('Artwork deleted');
+    console.log(`Deleting productive artist: ${id}:${name}`);
+    await redisClient.del(`productiveArtistArtworks:${id}:${name}`);
+    res.status(200).send('Productive artist deleted');
   } catch (err) {
     console.error(err);
-    res.status(500).send('Error deleting artwork');
+    res.status(500).send('Error deleting productive artist');
   }
 });
 
-router.get('/update-artwork-cache/:id', async (req, res) => {
-  const { id } = req.params;
+router.get('/update-productive-artist/:id/:name', async (req, res) => {
+  const { id, name } = req.params;
 
   try {
     const redisClient = await getRedisClient();
-    const artwork = await redisClient.hGetAll(`artworkDetails:${id}`);
-    if (!artwork) {
-      return res.status(404).send('Artwork not found');
-    }
+    const artworkIDs = await redisClient.zRange(`productiveArtistArtworks:${id}:${name}`, 0, -1);
 
-    res.render('updateArtworkCache', { artwork: { id, ...artwork } });
+    res.render('updateProductiveArtistArtworks', { id, name, artworkIDs });
   } catch (err) {
     console.error(err);
     res.status(500).send('Error fetching artwork details');
   }
 });
 
-router.post('/artwork-cache/:id', async (req, res) => {
-  const { id } = req.params;
-  const { title, medium, dimension, price } = req.body;
+router.post('/update-productive-artist-artworks/:id/:name', async (req, res) => {
+  const { id, name } = req.params;
+  const { artworkIDs } = req.body;
 
   try {
     const redisClient = await getRedisClient();
-    await redisClient.hSet(`artworkDetails:${id}`, {
-      title, medium, dimension, price: price.toString()
-    });
+
+    await redisClient.del(`productiveArtistArtworks:${id}:${name}`);
+
+    const artworkIDArray = artworkIDs.split(',').map(id => id.trim()).filter(id => id);
+
+    for (let i = 0; i < artworkIDArray.length; i++) {
+      await redisClient.zAdd(`productiveArtistArtworks:${id}:${name}`, { score: i, value: artworkIDArray[i] });
+    }
+
     res.redirect('/redis-cache');
   } catch (err) {
     console.error(err);
-    res.status(500).send('Error updating artwork');
+    res.status(500).send('Error updating productive artist artworks');
   }
 });
+
 
 /* Previous routes */
 /* GET home page. */

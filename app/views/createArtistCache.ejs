@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Create/Update Artist</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+
+<body>
+    <div class="container">
+        <h1>Create Artist in Redis</h1>
+        <form id="artistForm" action="/create-productive-artist" method="post">
+            <input type="text" name="artistID" placeholder="Artist ID" required>
+            <input type="text" name="artistName" placeholder="Artist Name" required>
+            <textarea name="artworkIDs" placeholder="Artwork IDs (comma-separated)" required></textarea>
+            <button class="btn" type="submit">Submit</button>
+        </form>
+    </div>
+</body>
+
+</html>

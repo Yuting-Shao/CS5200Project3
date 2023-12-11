@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Update Productive Artist Artworks</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+
+<body>
+    <div class="container">
+        <h1>Update Artworks for Artist: <%= name %>
+        </h1>
+        <form action="/update-productive-artist-artworks/<%= id %>/<%= name %>" method="post">
+            <input type="hidden" name="id" value="<%= id %>">
+            <input type="hidden" name="name" value="<%= name %>">
+
+            <label for="artworkIDs">Artwork IDs</label>
+            <div>
+                <textarea id="artworkIDs" name="artworkIDs" required><%= artworkIDs.join(', ') %></textarea>
+            </div>
+            <div>
+                <small>Enter artwork IDs separated by commas</small>
+            </div>
+            <div>
+                <button class="btn" type="submit">Update Artworks</button>
+            </div>
+        </form>
+    </div>
+</body>
+
+</html>
