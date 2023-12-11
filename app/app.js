@@ -6,38 +6,58 @@ let cookieParser = require('cookie-parser');
 let logger = require('morgan');
 
 let indexRouter = require('./routes/index');
+const { connectMongoDB } = require('./db/mongoConnection');
+const { connectRedis, syncArtworksToRedis } = require('./db/redisConnection');
 
 let app = express();
 
+async function initializeApp() {
+  try {
+    // establish MongoDB connection
+    await connectMongoDB();
+    console.log("MongoDB connected");
 
-app.use(methodOverride('_method'));
+    // establish Redis connection
+    await connectRedis();
+    console.log("Redis connected");
+    await syncArtworksToRedis();
+    console.log("Artworks synced to Redis");
 
-// view engine setup
-app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'ejs');
+    app.use(methodOverride('_method'));
 
-app.use(logger('dev'));
-app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
-app.use(cookieParser());
-app.use(express.static(path.join(__dirname, 'public')));
+    // view engine setup
+    app.set('views', path.join(__dirname, 'views'));
+    app.set('view engine', 'ejs');
 
-app.use('/', indexRouter);
+    app.use(logger('dev'));
+    app.use(express.json());
+    app.use(express.urlencoded({ extended: false }));
+    app.use(cookieParser());
+    app.use(express.static(path.join(__dirname, 'public')));
 
-// catch 404 and forward to error handler
-app.use(function (req, res, next) {
-  next(createError(404));
-});
+    app.use('/', indexRouter);
 
-// error handler
-app.use(function (err, req, res, next) {
-  // set locals, only providing error in development
-  res.locals.message = err.message;
-  res.locals.error = req.app.get('env') === 'development' ? err : {};
+    // catch 404 and forward to error handler
+    app.use(function (req, res, next) {
+      next(createError(404));
+    });
 
-  // render the error page
-  res.status(err.status || 500);
-  res.render('error');
-});
+    // error handler
+    app.use(function (err, req, res, next) {
+      // set locals, only providing error in development
+      res.locals.message = err.message;
+      res.locals.error = req.app.get('env') === 'development' ? err : {};
+
+      // render the error page
+      res.status(err.status || 500);
+      res.render('error');
+    });
+  } catch (error) {
+    console.error('Failed to initialize the app:', error);
+    process.exit(1); // exit the process in case of initialization failure
+  }
+}
+
+initializeApp();
 
 module.exports = app;

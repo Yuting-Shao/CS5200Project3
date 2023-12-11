@@ -1,19 +1,46 @@
-// connect to redis
-const redis = require('redis');
+const { createClient } = require('redis');
+const { getDb } = require('./mongoConnection');
 
-const redisClient = redis.createClient();
+let redisClient = createClient();
 
-redisClient.on('error', (err) => console.log('Redis Client Error', err));
+redisClient.on('error', (error) => console.log('Redis Client Error', error));
 
 async function connectRedis() {
     try {
         await redisClient.connect();
         console.log('Connected to Redis');
-    } catch (err) {
-        console.error('Failed to connect to Redis:', err);
+    } catch (error) {
+        console.error('Failed to connect to Redis:', error);
+        throw error;
     }
 }
 
-connectRedis();
+async function syncArtworksToRedis() {
+    try {
+        const db = getDb();
+        const artworks = await db.collection('Artwork').find().toArray();
 
-module.exports = redisClient;
+        for (const artwork of artworks) {
+            await redisClient.hSet(
+                `artworkDetails:${artwork._id}`, {
+                title: artwork.title,
+                medium: artwork.medium,
+                dimension: artwork.dimension,
+                price: artwork.price.toString()
+            });
+        }
+        console.log('Artworks synced to Redis successfully.');
+    } catch (error) {
+        console.error('Error syncing artworks to Redis:', error);
+        throw error;
+    }
+}
+
+async function getRedisClient() {
+    if (!redisClient) {
+        throw new Error('No Redis Client Found');
+    }
+    return redisClient;
+}
+
+module.exports = { connectRedis, syncArtworksToRedis, getRedisClient };

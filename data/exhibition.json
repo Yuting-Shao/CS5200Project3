@@ -1,0 +1,1032 @@
+[
+    {
+        "_id": "b8621c80-a62f-4627-8788-b384530ea36a",
+        "exhibitionName": "Whispers of the Heart",
+        "startDate": "8/6/2022",
+        "endDate": "7/15/2023",
+        "venue": "Botanical Garden",
+        "gallery": {
+            "_id": "3b376a14-1cf6-4e78-927a-a5268bc5074a",
+            "galleryName": "Labadie-Swift",
+            "location": "69989 Golf Course Way",
+            "contactDetails": "emotto2@opera.com"
+        },
+        "displayedArtworks": [
+            "0795858c-cf71-4c16-b504-258a314e72f1",
+            "36133ec4-76c2-413d-85d3-8f3770154c82",
+            "f9223554-1d29-4a62-a208-1e96710befe9"
+        ]
+    },
+    {
+        "_id": "d2316025-edc2-4ed6-ba7a-cb9e084f5209",
+        "exhibitionName": "Unveiling the Mystery",
+        "startDate": "12/4/2021",
+        "endDate": "1/18/2023",
+        "venue": "Botanical Garden",
+        "gallery": {
+            "_id": "cbc3f542-26bd-4eaf-a448-521226ef3798",
+            "galleryName": "Williamson and Sons",
+            "location": "98002 Eagle Crest Parkway",
+            "contactDetails": "scampana1@telegraph.co.uk"
+        },
+        "displayedArtworks": [
+            "2535be09-04b9-4b90-a49e-380a2958ac90",
+            "2611297c-b9d0-476d-a80b-8643f9add75e",
+            "c5302120-cf60-4edf-b3a6-b858f1c0d42f",
+            "fe056ef4-2a1d-4d90-9b07-46a8f625030b"
+        ]
+    },
+    {
+        "_id": "0957e87f-039d-4a45-a942-ecab2459aa1b",
+        "exhibitionName": "Symphony of Colors",
+        "startDate": "11/16/2022",
+        "endDate": "4/6/2023",
+        "venue": "Historical Site",
+        "gallery": {
+            "_id": "41ad5f23-f57f-4e8a-9240-f3d0d1449967",
+            "galleryName": "McLaughlin, Rosenbaum and Quitzon",
+            "location": "7630 Westend Crossing",
+            "contactDetails": "gsunnerh@ocn.ne.jp"
+        },
+        "displayedArtworks": [
+            "583787db-a51c-40a7-8a3b-09615d7f5d7f",
+            "da9c1da7-e077-4d4c-ab44-d505b16b1383",
+            "562ea66c-7dde-4e17-8dd5-9b0a2a303fb4",
+            "4c8868e5-60c4-4588-9e58-08e4854ddf09",
+            "97f96efb-fe53-46ae-bcbc-d6bf89ead40d",
+            "2dc8f06c-f236-41c7-bec6-8930f753c05f",
+            "42844415-c255-47c7-9984-8b02699a9155"
+        ]
+    },
+    {
+        "_id": "f5ef294f-20d8-4416-a4d6-25430f2c848b",
+        "exhibitionName": "Reflections in Time",
+        "startDate": "2/21/2022",
+        "endDate": "3/25/2023",
+        "venue": "Museum",
+        "gallery": {
+            "_id": "3e080e80-e6af-4443-ae8a-0e4768d327d1",
+            "galleryName": "McGlynn-Labadie",
+            "location": "72621 Northridge Center",
+            "contactDetails": "rgrishakin0@imageshack.us"
+        },
+        "displayedArtworks": [
+            "46e5418f-575a-4b10-8c72-c459ebfa7769",
+            "e8d57216-fea1-44dd-8eda-334c5ab8d562",
+            "d8a83483-76c3-4bc9-9366-c31901ca8dd9",
+            "0ae150e9-c86f-4642-b078-5900defab5d6",
+            "9b71fea2-c7a9-4709-9201-0b0e1b3ed3d0",
+            "a83eec3b-f7a3-4f04-9c1d-961085300910"
+        ]
+    },
+    {
+        "_id": "057af2b0-f5f6-49d0-a751-dd36237e33ce",
+        "exhibitionName": "Journey to the Unknown",
+        "startDate": "7/28/2022",
+        "endDate": "11/6/2023",
+        "venue": "Museum",
+        "gallery": {
+            "_id": "41ad5f23-f57f-4e8a-9240-f3d0d1449967",
+            "galleryName": "McLaughlin, Rosenbaum and Quitzon",
+            "location": "7630 Westend Crossing",
+            "contactDetails": "gsunnerh@ocn.ne.jp"
+        },
+        "displayedArtworks": [
+            "aedfc011-ba4c-4dba-9c4a-6f06ea755d5e",
+            "7d4c542a-0822-4d50-bf44-aa848c9054e2"
+        ]
+    },
+    {
+        "_id": "90aec26e-b23f-404c-ab70-618094d673d0",
+        "exhibitionName": "The Art of Imagination",
+        "startDate": "8/12/2022",
+        "endDate": "2/19/2023",
+        "venue": "Botanical Garden",
+        "gallery": {
+            "_id": "cbc3f542-26bd-4eaf-a448-521226ef3798",
+            "galleryName": "Williamson and Sons",
+            "location": "98002 Eagle Crest Parkway",
+            "contactDetails": "scampana1@telegraph.co.uk"
+        },
+        "displayedArtworks": [
+            "886b9fb1-a518-4413-bbca-1e789333ee00",
+            "0e08e19f-baaa-47ed-958e-7de1bbada4b9"
+        ]
+    },
+    {
+        "_id": "48cc1624-3695-4476-bbbf-823e6ad6f1d2",
+        "exhibitionName": "Whispers of the Heart",
+        "startDate": "6/18/2022",
+        "endDate": "2/2/2023",
+        "venue": "Convention Center",
+        "gallery": {
+            "_id": "3b376a14-1cf6-4e78-927a-a5268bc5074a",
+            "galleryName": "Labadie-Swift",
+            "location": "69989 Golf Course Way",
+            "contactDetails": "emotto2@opera.com"
+        },
+        "displayedArtworks": [
+            "b3f28588-5e83-4dcb-ba9e-997e359d9a7e",
+            "73ba8522-9a2e-4fd9-b05b-395277e5323d",
+            "94ee1456-6bf2-4c91-bab9-8b26e0df2a0a",
+            "c34296dd-882d-4ca0-a613-dd80a93e0f3a",
+            "7409c910-bce2-43a9-8a3b-4b93d5ae6556",
+            "1a7271b8-6ad7-43d5-ac37-3fbdceef34c5",
+            "89b88116-7233-4e9f-87f4-cd86469dde37"
+        ]
+    },
+    {
+        "_id": "deb76065-d79f-4dcb-89be-f50d35543421",
+        "exhibitionName": "Reflections in Time",
+        "startDate": "8/22/2022",
+        "endDate": "4/17/2023",
+        "venue": "Historical Site",
+        "gallery": {
+            "_id": "98981597-75c4-45e2-9f9b-5ba64450927e",
+            "galleryName": "Vandervort-Huel",
+            "location": "1618 John Wall Lane",
+            "contactDetails": "rskusef@gravatar.com"
+        },
+        "displayedArtworks": [
+            "886b9fb1-a518-4413-bbca-1e789333ee00",
+            "cd855cef-3c81-4e35-b4f7-05c52438523f",
+            "6f817fbf-9edc-450b-9e0a-d91be7dbf824",
+            "1b11c0bc-93f6-49a8-9f9d-1e52e1dffc79",
+            "e94569a6-57d7-4cad-9978-cfd0f8a17177",
+            "4c8868e5-60c4-4588-9e58-08e4854ddf09",
+            "75df405b-5b8d-4d03-9e14-fba4f42fe0ac",
+            "646acf5f-bb4e-44b8-a621-7cc2dfb9f40c",
+            "9dd55c4e-a86e-4af7-ab8d-30ce7ca64502"
+        ]
+    },
+    {
+        "_id": "6a0c57c2-3597-46c3-9258-5c2a062d38a7",
+        "exhibitionName": "Ethereal Landscapes",
+        "startDate": "4/25/2022",
+        "endDate": "5/19/2023",
+        "venue": "Art Gallery",
+        "gallery": {
+            "_id": "41ad5f23-f57f-4e8a-9240-f3d0d1449967",
+            "galleryName": "McLaughlin, Rosenbaum and Quitzon",
+            "location": "7630 Westend Crossing",
+            "contactDetails": "gsunnerh@ocn.ne.jp"
+        },
+        "displayedArtworks": [
+            "1de16bd4-a81b-46c6-a019-6e33dfefefb7",
+            "d265f5d9-2652-4853-b3ea-63e770039a26",
+            "8d4dcecb-4102-4c5e-9c71-d7bb83b17801",
+            "2535be09-04b9-4b90-a49e-380a2958ac90",
+            "43be88d0-fece-4bd8-99ea-96929379c30a",
+            "e10ce166-757d-4597-82ae-61ae5558d0db",
+            "b67a2104-9f6c-4792-988b-16c64f54cea3",
+            "7e24f225-5696-4fb8-ad51-9c874e00a3bc",
+            "6e0360d8-616c-4dd6-b1bd-3a712c72d657",
+            "b6afbfe4-4624-429b-b762-50270cea3be2"
+        ]
+    },
+    {
+        "_id": "bd9ed274-2769-4af8-8aca-dd30dc83c4de",
+        "exhibitionName": "Ethereal Landscapes",
+        "startDate": "10/23/2022",
+        "endDate": "7/10/2023",
+        "venue": "Convention Center",
+        "gallery": {
+            "_id": "5af1bb57-0353-4a41-ae6c-7e05ddcb5e00",
+            "galleryName": "Jacobi and Sons",
+            "location": "7 Nelson Place",
+            "contactDetails": "ebreitlerc@blinklist.com"
+        },
+        "displayedArtworks": [
+            "d265f5d9-2652-4853-b3ea-63e770039a26",
+            "2a8432ef-984e-46e5-9d15-bfa3ee249871",
+            "0a239b2d-a796-48bc-b638-d892566fbfc2",
+            "7409c910-bce2-43a9-8a3b-4b93d5ae6556",
+            "47b60a40-f0a0-4786-ab6e-d855c3bab184",
+            "646acf5f-bb4e-44b8-a621-7cc2dfb9f40c",
+            "bc256a31-f0c8-4360-ae12-97c9577f2a33",
+            "4e865e0b-c7d4-4111-a8ca-558897afbb79",
+            "92dc9c27-0b9c-4752-9168-02fbb421dcde"
+        ]
+    },
+    {
+        "_id": "c00ae594-f32e-4c3f-a441-d526eeefdd08",
+        "exhibitionName": "Journey to the Unknown",
+        "startDate": "4/20/2022",
+        "endDate": "4/1/2023",
+        "venue": "Museum",
+        "gallery": {
+            "_id": "41ad5f23-f57f-4e8a-9240-f3d0d1449967",
+            "galleryName": "McLaughlin, Rosenbaum and Quitzon",
+            "location": "7630 Westend Crossing",
+            "contactDetails": "gsunnerh@ocn.ne.jp"
+        },
+        "displayedArtworks": [
+            "85fb402b-12b4-49a3-90db-cac21be9714f",
+            "bcb0f9ae-a9d5-48ac-b55b-371e939d5278",
+            "e1198bd5-b9f4-4c8b-ad68-cbdee6b5d8a5",
+            "d89dfe31-4bdf-4db5-9b34-0b90a583cf86",
+            "36133ec4-76c2-413d-85d3-8f3770154c82",
+            "877e1c42-412d-467c-acd0-45e53cd9e9bd",
+            "ee4f6416-a139-4ccb-ba25-44363c751c54"
+        ]
+    },
+    {
+        "_id": "8644a0a3-e259-4612-9143-fbf8247a0b2d",
+        "exhibitionName": "Ethereal Landscapes",
+        "startDate": "7/30/2022",
+        "endDate": "2/13/2023",
+        "venue": "Convention Center",
+        "gallery": {
+            "_id": "5af1bb57-0353-4a41-ae6c-7e05ddcb5e00",
+            "galleryName": "Jacobi and Sons",
+            "location": "7 Nelson Place",
+            "contactDetails": "ebreitlerc@blinklist.com"
+        },
+        "displayedArtworks": [
+            "748b08a0-c746-4192-8997-278bb6ef5c79",
+            "ced474db-240e-47f3-9346-9ad0bb56dd40",
+            "bcb0f9ae-a9d5-48ac-b55b-371e939d5278",
+            "6e0360d8-616c-4dd6-b1bd-3a712c72d657",
+            "1d812e11-66a8-475e-be78-02d64ed241e3"
+        ]
+    },
+    {
+        "_id": "91f86bfb-e719-46ff-ab07-d86d0d5a6716",
+        "exhibitionName": "Unveiling the Mystery",
+        "startDate": "8/12/2022",
+        "endDate": "8/22/2023",
+        "venue": "Historical Site",
+        "gallery": {
+            "_id": "413c0834-8b79-42ed-8bd2-7102bda80dbf",
+            "galleryName": "McCullough-White",
+            "location": "1 Sachtjen Road",
+            "contactDetails": "kkilohi@delicious.com"
+        },
+        "displayedArtworks": [
+            "a742a333-cf10-4a46-9d7e-18a77bfbfea2",
+            "7e24f225-5696-4fb8-ad51-9c874e00a3bc",
+            "7d4c542a-0822-4d50-bf44-aa848c9054e2"
+        ]
+    },
+    {
+        "_id": "496fad34-cee8-444f-b838-f23e0b8b46bb",
+        "exhibitionName": "Symphony of Colors",
+        "startDate": "5/6/2022",
+        "endDate": "11/20/2023",
+        "venue": "Historical Site",
+        "gallery": {
+            "_id": "cbc3f542-26bd-4eaf-a448-521226ef3798",
+            "galleryName": "Williamson and Sons",
+            "location": "98002 Eagle Crest Parkway",
+            "contactDetails": "scampana1@telegraph.co.uk"
+        },
+        "displayedArtworks": [
+            "85fb402b-12b4-49a3-90db-cac21be9714f",
+            "a318e210-e7b2-44b4-99b3-2a69544b4047",
+            "4df09766-72be-4091-a84e-d863885b3b2b",
+            "21aa2bd3-5738-4ede-9ae2-1ed85d39753d",
+            "8fadec82-7332-4bb8-affc-34040854814c",
+            "43be88d0-fece-4bd8-99ea-96929379c30a"
+        ]
+    },
+    {
+        "_id": "8904de95-9cd2-45df-9ae4-ec85b10a29b2",
+        "exhibitionName": "Unveiling the Mystery",
+        "startDate": "2/9/2022",
+        "endDate": "6/26/2023",
+        "venue": "Convention Center",
+        "gallery": {
+            "_id": "9a231a18-af6f-427e-bcf3-0694044208a8",
+            "galleryName": "Fadel Group",
+            "location": "20 Springview Drive",
+            "contactDetails": "scabrara6@creativecommons.org"
+        },
+        "displayedArtworks": [
+            "2611297c-b9d0-476d-a80b-8643f9add75e",
+            "2d5a61ad-bf58-4c7d-a9e9-def37bc4dc8c",
+            "c5b42a66-4d97-4cf1-bbc2-618b33ed4511",
+            "57b470ed-f432-43d2-ae8f-874a64a997cb",
+            "877e1c42-412d-467c-acd0-45e53cd9e9bd"
+        ]
+    },
+    {
+        "_id": "c08dd8ac-5342-4f40-88d3-1db71956147b",
+        "exhibitionName": "Whispers of the Heart",
+        "startDate": "5/28/2022",
+        "endDate": "9/28/2023",
+        "venue": "Convention Center",
+        "gallery": {
+            "_id": "889f3b53-9115-4bcf-a61c-df22cb90a07b",
+            "galleryName": "Mann, Bartell and Wilderman",
+            "location": "15215 Cordelia Lane",
+            "contactDetails": "bdysertg@earthlink.net"
+        },
+        "displayedArtworks": [
+            "1a415dc0-7080-45ba-96ca-4b91ff5bbe8f",
+            "21aa2bd3-5738-4ede-9ae2-1ed85d39753d",
+            "202d159c-48d7-4f18-ac49-e97625ce284b",
+            "da9c1da7-e077-4d4c-ab44-d505b16b1383",
+            "a83eec3b-f7a3-4f04-9c1d-961085300910",
+            "5fdae1b7-bdb8-4b65-9271-d061028c3d0a",
+            "3419fc1d-d03d-4b26-8aee-908e535f1f63"
+        ]
+    },
+    {
+        "_id": "c9346c76-2f7b-416c-9f8a-176638883819",
+        "exhibitionName": "Ethereal Landscapes",
+        "startDate": "8/17/2022",
+        "endDate": "5/29/2023",
+        "venue": "Convention Center",
+        "gallery": {
+            "_id": "86b18de9-6c7b-4bc4-a6b9-ce12272783b4",
+            "galleryName": "Wilderman LLC",
+            "location": "5 Westridge Place",
+            "contactDetails": "fbyroma@amazon.com"
+        },
+        "displayedArtworks": [
+            "9b71fea2-c7a9-4709-9201-0b0e1b3ed3d0",
+            "34890123-2e84-4f38-839c-8917c3b073ae",
+            "d89dfe31-4bdf-4db5-9b34-0b90a583cf86",
+            "96fd9494-10fb-4895-af75-3b43d19a72da",
+            "4e865e0b-c7d4-4111-a8ca-558897afbb79",
+            "1d812e11-66a8-475e-be78-02d64ed241e3"
+        ]
+    },
+    {
+        "_id": "6b7f9773-6e7e-4c62-b5f1-3c65be5a566e",
+        "exhibitionName": "Expressions of the Mind",
+        "startDate": "3/31/2022",
+        "endDate": "9/25/2023",
+        "venue": "Museum",
+        "gallery": {
+            "_id": "f2eb6048-a3a4-458b-b7c4-6e6ca7b9a46c",
+            "galleryName": "McGlynn, Nader and Rohan",
+            "location": "23 Twin Pines Park",
+            "contactDetails": "wseccombe5@toplist.cz"
+        },
+        "displayedArtworks": [
+            "82add192-21d2-4cb2-aa66-302b98ae77d5",
+            "e349f6e0-6d4e-4439-a3e6-7f4a33c29dec",
+            "91c7258a-d8e3-4f01-92e2-ad018918b260",
+            "cf777ed2-13b5-41fa-b15e-9526c492cf71",
+            "aabab9b9-d113-49ff-a003-440f8f322642"
+        ]
+    },
+    {
+        "_id": "f581be7f-2899-4ae8-95b3-b24a68a3e8f3",
+        "exhibitionName": "Journey to the Unknown",
+        "startDate": "11/17/2022",
+        "endDate": "4/29/2023",
+        "venue": "Art Gallery",
+        "gallery": {
+            "_id": "1b50b7f5-5d92-4ab1-a86d-c5ccad7f66b8",
+            "galleryName": "Flatley Inc",
+            "location": "63729 4th Hill",
+            "contactDetails": "pbottini7@imdb.com"
+        },
+        "displayedArtworks": [
+            "33883f3c-ca69-40b5-b449-2b4eaa97b86f",
+            "40486368-991c-4124-ba14-b0d21f2e9985",
+            "7adb654f-6002-4efc-9ec9-5307f7a91618"
+        ]
+    },
+    {
+        "_id": "b0d0761f-536d-45e0-9379-f1f0e28a0379",
+        "exhibitionName": "Visions of the Soul",
+        "startDate": "9/30/2022",
+        "endDate": "6/16/2023",
+        "venue": "Museum",
+        "gallery": {
+            "_id": "807e5e8f-581a-4bb5-9499-93775813ad1b",
+            "galleryName": "Harber Inc",
+            "location": "87 Alpine Road",
+            "contactDetails": "wmelburg8@techcrunch.com"
+        },
+        "displayedArtworks": [
+            "b3f28588-5e83-4dcb-ba9e-997e359d9a7e",
+            "73ba8522-9a2e-4fd9-b05b-395277e5323d",
+            "67d64c8d-bdc4-4bdc-b567-5a9494f79871",
+            "2a8432ef-984e-46e5-9d15-bfa3ee249871",
+            "c34296dd-882d-4ca0-a613-dd80a93e0f3a",
+            "8c826882-cbf6-431d-964f-e9dc6b01c4af",
+            "fe056ef4-2a1d-4d90-9b07-46a8f625030b"
+        ]
+    },
+    {
+        "_id": "bb8d05c1-ad3a-45de-82fa-01f5bf7d753e",
+        "exhibitionName": "Expressions of the Mind",
+        "startDate": "5/3/2022",
+        "endDate": "10/2/2023",
+        "venue": "Historical Site",
+        "gallery": {
+            "_id": "cbc3f542-26bd-4eaf-a448-521226ef3798",
+            "galleryName": "Williamson and Sons",
+            "location": "98002 Eagle Crest Parkway",
+            "contactDetails": "scampana1@telegraph.co.uk"
+        },
+        "displayedArtworks": [
+            "1fde95cb-0a1d-4da8-946d-0fbfc0473b11",
+            "e349f6e0-6d4e-4439-a3e6-7f4a33c29dec",
+            "34890123-2e84-4f38-839c-8917c3b073ae",
+            "7adb654f-6002-4efc-9ec9-5307f7a91618"
+        ]
+    },
+    {
+        "_id": "92176e2b-3158-4e2e-ac17-096ff317d828",
+        "exhibitionName": "Visions of the Soul",
+        "startDate": "9/7/2022",
+        "endDate": "12/29/2022",
+        "venue": "Art Gallery",
+        "gallery": {
+            "_id": "9a231a18-af6f-427e-bcf3-0694044208a8",
+            "galleryName": "Fadel Group",
+            "location": "20 Springview Drive",
+            "contactDetails": "scabrara6@creativecommons.org"
+        },
+        "displayedArtworks": [
+            "1e0d504c-67c4-4486-b12e-67943c7dca86",
+            "dbda3678-8c8c-4d0e-8d74-b0524ba10fc7",
+            "afaf81ac-36c1-4e9f-acae-139de0a14866",
+            "4165f0f7-fd3d-421a-8668-5a6c05d4ca20",
+            "4134f013-69f8-42e5-be9b-24ad937151a2",
+            "e880ef21-def8-45a7-9a15-71f91c8573af",
+            "6e0360d8-616c-4dd6-b1bd-3a712c72d657",
+            "97f96efb-fe53-46ae-bcbc-d6bf89ead40d"
+        ]
+    },
+    {
+        "_id": "92cb4165-e378-481f-ac1d-bbe76c672a71",
+        "exhibitionName": "Unveiling the Mystery",
+        "startDate": "2/16/2022",
+        "endDate": "11/9/2023",
+        "venue": "Historical Site",
+        "gallery": {
+            "_id": "6dd9377e-6f06-45b2-9bd9-31cf2ef260b1",
+            "galleryName": "Gleason-Leuschke",
+            "location": "2978 3rd Court",
+            "contactDetails": "mhightownb@liveinternet.ru"
+        },
+        "displayedArtworks": [
+            "20d9dcf0-8ef6-42d9-9761-49ec3dd5169b",
+            "f3621d90-2d6a-466b-b9fa-00a4d7140256",
+            "96404c48-910e-46c0-bca9-f8504a87c5c1",
+            "6aaa8ecc-2360-41b5-b929-788f30539a4f",
+            "04077046-5c78-4847-813a-8664f3f1f0c9",
+            "d8a83483-76c3-4bc9-9366-c31901ca8dd9",
+            "6f817fbf-9edc-450b-9e0a-d91be7dbf824",
+            "7409c910-bce2-43a9-8a3b-4b93d5ae6556",
+            "6bfa210b-3146-40c3-b65b-6528eba77ced"
+        ]
+    },
+    {
+        "_id": "c270bdd1-1c36-4b0d-89ae-bad4b7c2756b",
+        "exhibitionName": "Journey to the Unknown",
+        "startDate": "7/26/2022",
+        "endDate": "10/21/2023",
+        "venue": "Historical Site",
+        "gallery": {
+            "_id": "f2eb6048-a3a4-458b-b7c4-6e6ca7b9a46c",
+            "galleryName": "McGlynn, Nader and Rohan",
+            "location": "23 Twin Pines Park",
+            "contactDetails": "wseccombe5@toplist.cz"
+        },
+        "displayedArtworks": [
+            "f3621d90-2d6a-466b-b9fa-00a4d7140256",
+            "432bf703-d615-4504-bc35-9e818184050c",
+            "b780b55b-80fe-4a8f-9100-4447853766f6",
+            "9b71fea2-c7a9-4709-9201-0b0e1b3ed3d0",
+            "f9512c46-d13f-4c44-90b1-3d871c390ee8",
+            "aedfc011-ba4c-4dba-9c4a-6f06ea755d5e",
+            "aabab9b9-d113-49ff-a003-440f8f322642",
+            "42844415-c255-47c7-9984-8b02699a9155"
+        ]
+    },
+    {
+        "_id": "e58f450b-c156-40c6-8f64-555847cd18a9",
+        "exhibitionName": "The Magic Within",
+        "startDate": "12/27/2021",
+        "endDate": "9/2/2023",
+        "venue": "Convention Center",
+        "gallery": {
+            "_id": "413c0834-8b79-42ed-8bd2-7102bda80dbf",
+            "galleryName": "McCullough-White",
+            "location": "1 Sachtjen Road",
+            "contactDetails": "kkilohi@delicious.com"
+        },
+        "displayedArtworks": [
+            "d265f5d9-2652-4853-b3ea-63e770039a26",
+            "0795858c-cf71-4c16-b504-258a314e72f1",
+            "f29af360-2a92-475d-895f-9b349c0bd3ed",
+            "34890123-2e84-4f38-839c-8917c3b073ae",
+            "2d5a61ad-bf58-4c7d-a9e9-def37bc4dc8c",
+            "e10ce166-757d-4597-82ae-61ae5558d0db",
+            "5a9a1f71-382d-45c4-9a06-e7ac2941924a",
+            "3a1dbc31-9aff-4331-bd91-57199c6c0e47"
+        ]
+    },
+    {
+        "_id": "aa74a476-ce3a-456a-b7c1-180d2f318dad",
+        "exhibitionName": "Visions of the Soul",
+        "startDate": "10/5/2022",
+        "endDate": "4/11/2023",
+        "venue": "Museum",
+        "gallery": {
+            "_id": "413c0834-8b79-42ed-8bd2-7102bda80dbf",
+            "galleryName": "McCullough-White",
+            "location": "1 Sachtjen Road",
+            "contactDetails": "kkilohi@delicious.com"
+        },
+        "displayedArtworks": [
+            "2827d11c-dbbf-4908-a554-531937e80752",
+            "b3f28588-5e83-4dcb-ba9e-997e359d9a7e",
+            "f3621d90-2d6a-466b-b9fa-00a4d7140256",
+            "84465318-0ca9-4951-bc0a-3f0c70d42980",
+            "748b08a0-c746-4192-8997-278bb6ef5c79",
+            "0795858c-cf71-4c16-b504-258a314e72f1",
+            "43be88d0-fece-4bd8-99ea-96929379c30a",
+            "562ea66c-7dde-4e17-8dd5-9b0a2a303fb4",
+            "0e9074c4-c1df-447e-b20f-2357174fc712"
+        ]
+    },
+    {
+        "_id": "51d7ba96-6875-4bd2-8ee1-eb62214b5dfd",
+        "exhibitionName": "Unveiling the Mystery",
+        "startDate": "4/19/2022",
+        "endDate": "9/17/2023",
+        "venue": "Historical Site",
+        "gallery": {
+            "_id": "41ad5f23-f57f-4e8a-9240-f3d0d1449967",
+            "galleryName": "McLaughlin, Rosenbaum and Quitzon",
+            "location": "7630 Westend Crossing",
+            "contactDetails": "gsunnerh@ocn.ne.jp"
+        },
+        "displayedArtworks": [
+            "393bea66-4405-4ef4-86c6-ab8a15b16f09",
+            "6bfa210b-3146-40c3-b65b-6528eba77ced",
+            "daff8594-f06c-4da9-ac83-990b802c3c7a",
+            "1a7271b8-6ad7-43d5-ac37-3fbdceef34c5"
+        ]
+    },
+    {
+        "_id": "db95a89d-932a-4048-ae0f-a9385476e76c",
+        "exhibitionName": "Unveiling the Mystery",
+        "startDate": "1/27/2022",
+        "endDate": "5/26/2023",
+        "venue": "Art Gallery",
+        "gallery": {
+            "_id": "d5f27886-7ec2-41c4-9a0c-29b97fa72eb7",
+            "galleryName": "Parker and Sons",
+            "location": "049 Tennessee Avenue",
+            "contactDetails": "dojeda4@auda.org.au"
+        },
+        "displayedArtworks": [
+            "ced474db-240e-47f3-9346-9ad0bb56dd40",
+            "94ee1456-6bf2-4c91-bab9-8b26e0df2a0a",
+            "4134f013-69f8-42e5-be9b-24ad937151a2",
+            "0e08e19f-baaa-47ed-958e-7de1bbada4b9",
+            "0e9074c4-c1df-447e-b20f-2357174fc712"
+        ]
+    },
+    {
+        "_id": "e83430b9-41ba-4b61-8b70-77a2281dabd5",
+        "exhibitionName": "Ethereal Landscapes",
+        "startDate": "10/4/2022",
+        "endDate": "10/2/2023",
+        "venue": "Historical Site",
+        "gallery": {
+            "_id": "86b18de9-6c7b-4bc4-a6b9-ce12272783b4",
+            "galleryName": "Wilderman LLC",
+            "location": "5 Westridge Place",
+            "contactDetails": "fbyroma@amazon.com"
+        },
+        "displayedArtworks": [
+            "85fb402b-12b4-49a3-90db-cac21be9714f",
+            "d4ec9dbe-41a3-4315-9501-3cf3012a1705",
+            "524887e4-d308-4f78-8f0f-7ba1c3d077b8",
+            "eafa4817-8d13-47e4-8539-2035ada99a65",
+            "4134f013-69f8-42e5-be9b-24ad937151a2",
+            "b73460a7-0d1f-4e17-81d7-871fd94ea7d3",
+            "8c826882-cbf6-431d-964f-e9dc6b01c4af",
+            "6bfa210b-3146-40c3-b65b-6528eba77ced"
+        ]
+    },
+    {
+        "_id": "75ded1b4-0756-4edb-abaa-e06540377892",
+        "exhibitionName": "Reflections in Time",
+        "startDate": "9/21/2022",
+        "endDate": "2/18/2023",
+        "venue": "Art Gallery",
+        "gallery": {
+            "_id": "7dbba80a-bd3b-4b1a-b765-6cc0ffde5f40",
+            "galleryName": "Crist, Block and Gerhold",
+            "location": "308 Oneill Drive",
+            "contactDetails": "thouselee3@noaa.gov"
+        },
+        "displayedArtworks": [
+            "562ea66c-7dde-4e17-8dd5-9b0a2a303fb4",
+            "d920ba15-bb68-4307-a2da-12fcfd5dcd07"
+        ]
+    },
+    {
+        "_id": "ec300af8-196e-46fe-a9cd-441fbf31359c",
+        "exhibitionName": "Ethereal Landscapes",
+        "startDate": "1/11/2022",
+        "endDate": "11/19/2023",
+        "venue": "Museum",
+        "gallery": {
+            "_id": "5af1bb57-0353-4a41-ae6c-7e05ddcb5e00",
+            "galleryName": "Jacobi and Sons",
+            "location": "7 Nelson Place",
+            "contactDetails": "ebreitlerc@blinklist.com"
+        },
+        "displayedArtworks": []
+    },
+    {
+        "_id": "b25d07af-9f85-4dbe-8c5e-6291e14242a2",
+        "exhibitionName": "Reflections in Time",
+        "startDate": "4/27/2022",
+        "endDate": "12/18/2022",
+        "venue": "Botanical Garden",
+        "gallery": {
+            "_id": "86b18de9-6c7b-4bc4-a6b9-ce12272783b4",
+            "galleryName": "Wilderman LLC",
+            "location": "5 Westridge Place",
+            "contactDetails": "fbyroma@amazon.com"
+        },
+        "displayedArtworks": [
+            "3e788f61-a4fd-419c-8168-a83e5a28e098",
+            "77485dc0-fa10-43ae-bc98-f0fccce08e28"
+        ]
+    },
+    {
+        "_id": "d18c3f8b-6d17-4d12-81d7-980e09169c75",
+        "exhibitionName": "The Art of Imagination",
+        "startDate": "2/9/2022",
+        "endDate": "8/25/2023",
+        "venue": "Museum",
+        "gallery": {
+            "_id": "6dd9377e-6f06-45b2-9bd9-31cf2ef260b1",
+            "galleryName": "Gleason-Leuschke",
+            "location": "2978 3rd Court",
+            "contactDetails": "mhightownb@liveinternet.ru"
+        },
+        "displayedArtworks": [
+            "e880ef21-def8-45a7-9a15-71f91c8573af",
+            "daff8594-f06c-4da9-ac83-990b802c3c7a",
+            "57b470ed-f432-43d2-ae8f-874a64a997cb",
+            "32a580d3-443b-4232-bf5f-e3e90eefb605",
+            "1936b50c-b8aa-43d6-a916-cb4a07c54046"
+        ]
+    },
+    {
+        "_id": "f965d8a4-e0c1-4eed-bd3b-bc603920f8ac",
+        "exhibitionName": "Visions of the Soul",
+        "startDate": "1/26/2022",
+        "endDate": "5/18/2023",
+        "venue": "Historical Site",
+        "gallery": {
+            "_id": "41ad5f23-f57f-4e8a-9240-f3d0d1449967",
+            "galleryName": "McLaughlin, Rosenbaum and Quitzon",
+            "location": "7630 Westend Crossing",
+            "contactDetails": "gsunnerh@ocn.ne.jp"
+        },
+        "displayedArtworks": [
+            "b67a2104-9f6c-4792-988b-16c64f54cea3",
+            "f3ff799a-b9a8-4a39-89a5-cc865d25638d",
+            "ee4f6416-a139-4ccb-ba25-44363c751c54"
+        ]
+    },
+    {
+        "_id": "998b2c7f-197e-49f2-92d8-1ea8bd738734",
+        "exhibitionName": "Whispers of the Heart",
+        "startDate": "7/8/2022",
+        "endDate": "1/1/2023",
+        "venue": "Historical Site",
+        "gallery": {
+            "_id": "5af1bb57-0353-4a41-ae6c-7e05ddcb5e00",
+            "galleryName": "Jacobi and Sons",
+            "location": "7 Nelson Place",
+            "contactDetails": "ebreitlerc@blinklist.com"
+        },
+        "displayedArtworks": [
+            "96404c48-910e-46c0-bca9-f8504a87c5c1",
+            "33883f3c-ca69-40b5-b449-2b4eaa97b86f",
+            "009df90c-52a8-43b0-b19e-26b831214286",
+            "c34296dd-882d-4ca0-a613-dd80a93e0f3a",
+            "6fa2fd66-47a6-41d2-882e-37815e8470f0",
+            "5fdae1b7-bdb8-4b65-9271-d061028c3d0a",
+            "646acf5f-bb4e-44b8-a621-7cc2dfb9f40c",
+            "97f96efb-fe53-46ae-bcbc-d6bf89ead40d"
+        ]
+    },
+    {
+        "_id": "a98dcc45-c0e4-4c6d-8abd-a5e3baa1a70a",
+        "exhibitionName": "Reflections in Time",
+        "startDate": "8/30/2022",
+        "endDate": "10/11/2023",
+        "venue": "Convention Center",
+        "gallery": {
+            "_id": "1b50b7f5-5d92-4ab1-a86d-c5ccad7f66b8",
+            "galleryName": "Flatley Inc",
+            "location": "63729 4th Hill",
+            "contactDetails": "pbottini7@imdb.com"
+        },
+        "displayedArtworks": [
+            "e42daecc-d777-4a3f-95c2-d7562344237e",
+            "524887e4-d308-4f78-8f0f-7ba1c3d077b8",
+            "1fde95cb-0a1d-4da8-946d-0fbfc0473b11",
+            "4165f0f7-fd3d-421a-8668-5a6c05d4ca20",
+            "08407de9-2c3a-48c2-992f-498e0709b619",
+            "867290eb-6f53-4725-897e-4e1b9426f98d",
+            "aabab9b9-d113-49ff-a003-440f8f322642"
+        ]
+    },
+    {
+        "_id": "39f497ba-361f-402a-a829-472d9ed6c039",
+        "exhibitionName": "The Art of Imagination",
+        "startDate": "10/26/2022",
+        "endDate": "11/7/2023",
+        "venue": "Historical Site",
+        "gallery": {
+            "_id": "98981597-75c4-45e2-9f9b-5ba64450927e",
+            "galleryName": "Vandervort-Huel",
+            "location": "1618 John Wall Lane",
+            "contactDetails": "rskusef@gravatar.com"
+        },
+        "displayedArtworks": [
+            "432bf703-d615-4504-bc35-9e818184050c",
+            "2611297c-b9d0-476d-a80b-8643f9add75e",
+            "1b11c0bc-93f6-49a8-9f9d-1e52e1dffc79"
+        ]
+    },
+    {
+        "_id": "5b0c5be1-af78-433c-b981-4e189cdf4d84",
+        "exhibitionName": "Ethereal Landscapes",
+        "startDate": "9/27/2022",
+        "endDate": "4/29/2023",
+        "venue": "Art Gallery",
+        "gallery": {
+            "_id": "7dbba80a-bd3b-4b1a-b765-6cc0ffde5f40",
+            "galleryName": "Crist, Block and Gerhold",
+            "location": "308 Oneill Drive",
+            "contactDetails": "thouselee3@noaa.gov"
+        },
+        "displayedArtworks": [
+            "1de16bd4-a81b-46c6-a019-6e33dfefefb7",
+            "5b276f8e-8081-4e99-8e94-d4cd021ef38e",
+            "dbda3678-8c8c-4d0e-8d74-b0524ba10fc7",
+            "b67a2104-9f6c-4792-988b-16c64f54cea3"
+        ]
+    },
+    {
+        "_id": "901673b7-539e-461f-a496-c591f4aaf91d",
+        "exhibitionName": "The Magic Within",
+        "startDate": "6/6/2022",
+        "endDate": "1/16/2023",
+        "venue": "Art Gallery",
+        "gallery": {
+            "_id": "5af1bb57-0353-4a41-ae6c-7e05ddcb5e00",
+            "galleryName": "Jacobi and Sons",
+            "location": "7 Nelson Place",
+            "contactDetails": "ebreitlerc@blinklist.com"
+        },
+        "displayedArtworks": [
+            "20d9dcf0-8ef6-42d9-9761-49ec3dd5169b",
+            "202d159c-48d7-4f18-ac49-e97625ce284b",
+            "748b08a0-c746-4192-8997-278bb6ef5c79",
+            "4165f0f7-fd3d-421a-8668-5a6c05d4ca20",
+            "8c826882-cbf6-431d-964f-e9dc6b01c4af",
+            "1b4260d9-f464-4446-bcca-8c007659f15f",
+            "1a7271b8-6ad7-43d5-ac37-3fbdceef34c5",
+            "77485dc0-fa10-43ae-bc98-f0fccce08e28",
+            "672c0ba6-4d4f-4bc6-be28-fd6ea9d8b954",
+            "7adb654f-6002-4efc-9ec9-5307f7a91618",
+            "0750a8c2-ac4a-4848-87a7-93a39fd791cd"
+        ]
+    },
+    {
+        "_id": "29d63c05-3beb-4b55-a65e-c6a09e92c784",
+        "exhibitionName": "Journey to the Unknown",
+        "startDate": "9/10/2022",
+        "endDate": "10/13/2023",
+        "venue": "Botanical Garden",
+        "gallery": {
+            "_id": "86b18de9-6c7b-4bc4-a6b9-ce12272783b4",
+            "galleryName": "Wilderman LLC",
+            "location": "5 Westridge Place",
+            "contactDetails": "fbyroma@amazon.com"
+        },
+        "displayedArtworks": [
+            "c5302120-cf60-4edf-b3a6-b858f1c0d42f",
+            "80bd2d61-47d9-4806-a3aa-a3a2558393c2"
+        ]
+    },
+    {
+        "_id": "5c23b330-f17c-415e-ab0e-5e718b7a4803",
+        "exhibitionName": "Journey to the Unknown",
+        "startDate": "2/2/2022",
+        "endDate": "5/10/2023",
+        "venue": "Museum",
+        "gallery": {
+            "_id": "3e080e80-e6af-4443-ae8a-0e4768d327d1",
+            "galleryName": "McGlynn-Labadie",
+            "location": "72621 Northridge Center",
+            "contactDetails": "rgrishakin0@imageshack.us"
+        },
+        "displayedArtworks": [
+            "5b276f8e-8081-4e99-8e94-d4cd021ef38e",
+            "67d64c8d-bdc4-4bdc-b567-5a9494f79871",
+            "96fd9494-10fb-4895-af75-3b43d19a72da",
+            "289b056a-8815-4e31-bb63-5c8dfade18cc",
+            "b6afbfe4-4624-429b-b762-50270cea3be2"
+        ]
+    },
+    {
+        "_id": "4d6cb8ac-1b30-4704-a334-08e5b21badfd",
+        "exhibitionName": "Journey to the Unknown",
+        "startDate": "6/11/2022",
+        "endDate": "6/24/2023",
+        "venue": "Museum",
+        "gallery": {
+            "_id": "3239c132-e5a1-494c-bf0f-8755a7972cc6",
+            "galleryName": "Dickens, Hayes and Nikolaus",
+            "location": "63760 Texas Lane",
+            "contactDetails": "vcamouse@china.com.cn"
+        },
+        "displayedArtworks": [
+            "b2d2a539-314f-46c5-8b45-7af9c64a62c5",
+            "eafa4817-8d13-47e4-8539-2035ada99a65",
+            "b780b55b-80fe-4a8f-9100-4447853766f6",
+            "e880ef21-def8-45a7-9a15-71f91c8573af",
+            "877e1c42-412d-467c-acd0-45e53cd9e9bd"
+        ]
+    },
+    {
+        "_id": "0d0e3116-3f23-4fcd-bbd1-ea7819485962",
+        "exhibitionName": "Reflections in Time",
+        "startDate": "6/14/2022",
+        "endDate": "10/18/2023",
+        "venue": "Art Gallery",
+        "gallery": {
+            "_id": "3239c132-e5a1-494c-bf0f-8755a7972cc6",
+            "galleryName": "Dickens, Hayes and Nikolaus",
+            "location": "63760 Texas Lane",
+            "contactDetails": "vcamouse@china.com.cn"
+        },
+        "displayedArtworks": [
+            "1a415dc0-7080-45ba-96ca-4b91ff5bbe8f"
+        ]
+    },
+    {
+        "_id": "0de2b9e1-6cf4-4dd1-9fb6-4161c4600f8a",
+        "exhibitionName": "Reflections in Time",
+        "startDate": "10/3/2022",
+        "endDate": "1/13/2023",
+        "venue": "Botanical Garden",
+        "gallery": {
+            "_id": "cbc3f542-26bd-4eaf-a448-521226ef3798",
+            "galleryName": "Williamson and Sons",
+            "location": "98002 Eagle Crest Parkway",
+            "contactDetails": "scampana1@telegraph.co.uk"
+        },
+        "displayedArtworks": [
+            "0f668296-8fb6-412d-9c02-3476cab4854d",
+            "46e5418f-575a-4b10-8c72-c459ebfa7769",
+            "27cf7027-0b27-4390-a4f5-a521b9c1901f",
+            "1b4260d9-f464-4446-bcca-8c007659f15f",
+            "ab54293e-ee28-41ea-803d-29b3c82b4d4c",
+            "22cca8db-9c68-4767-9827-c0f75489f5bf",
+            "3419fc1d-d03d-4b26-8aee-908e535f1f63"
+        ]
+    },
+    {
+        "_id": "59fa3eff-78dc-4879-806b-fd81a65898f1",
+        "exhibitionName": "Unveiling the Mystery",
+        "startDate": "1/26/2022",
+        "endDate": "5/30/2023",
+        "venue": "Art Gallery",
+        "gallery": {
+            "_id": "5af1bb57-0353-4a41-ae6c-7e05ddcb5e00",
+            "galleryName": "Jacobi and Sons",
+            "location": "7 Nelson Place",
+            "contactDetails": "ebreitlerc@blinklist.com"
+        },
+        "displayedArtworks": [
+            "5b276f8e-8081-4e99-8e94-d4cd021ef38e",
+            "5ad6c3f5-cb79-424a-a73b-874b269384a9",
+            "7afd0a3c-67b9-4747-b1eb-d24af1947511",
+            "e9f060cf-2410-41f4-a97f-18e36eb701b9",
+            "ab54293e-ee28-41ea-803d-29b3c82b4d4c",
+            "91c7258a-d8e3-4f01-92e2-ad018918b260",
+            "1936b50c-b8aa-43d6-a916-cb4a07c54046",
+            "0e9074c4-c1df-447e-b20f-2357174fc712"
+        ]
+    },
+    {
+        "_id": "84d2abc8-d542-4901-85f4-0ff24a1f5a13",
+        "exhibitionName": "The Magic Within",
+        "startDate": "8/8/2022",
+        "endDate": "2/15/2023",
+        "venue": "Convention Center",
+        "gallery": {
+            "_id": "413c0834-8b79-42ed-8bd2-7102bda80dbf",
+            "galleryName": "McCullough-White",
+            "location": "1 Sachtjen Road",
+            "contactDetails": "kkilohi@delicious.com"
+        },
+        "displayedArtworks": [
+            "84465318-0ca9-4951-bc0a-3f0c70d42980",
+            "dbda3678-8c8c-4d0e-8d74-b0524ba10fc7",
+            "6aaa8ecc-2360-41b5-b929-788f30539a4f",
+            "33883f3c-ca69-40b5-b449-2b4eaa97b86f",
+            "e349f6e0-6d4e-4439-a3e6-7f4a33c29dec",
+            "6f817fbf-9edc-450b-9e0a-d91be7dbf824",
+            "82cb79c2-4002-46e6-8530-4f64acb23621",
+            "0a239b2d-a796-48bc-b638-d892566fbfc2",
+            "393bea66-4405-4ef4-86c6-ab8a15b16f09",
+            "ab54293e-ee28-41ea-803d-29b3c82b4d4c"
+        ]
+    },
+    {
+        "_id": "9a7a1e06-9e95-4e6a-a794-9fe2d98dedaf",
+        "exhibitionName": "Journey to the Unknown",
+        "startDate": "7/27/2022",
+        "endDate": "3/16/2023",
+        "venue": "Botanical Garden",
+        "gallery": {
+            "_id": "413c0834-8b79-42ed-8bd2-7102bda80dbf",
+            "galleryName": "McCullough-White",
+            "location": "1 Sachtjen Road",
+            "contactDetails": "kkilohi@delicious.com"
+        },
+        "displayedArtworks": [
+            "1de16bd4-a81b-46c6-a019-6e33dfefefb7",
+            "d4ec9dbe-41a3-4315-9501-3cf3012a1705",
+            "4ca4344b-2167-4b30-8665-fb91bb6dc13e",
+            "82cb79c2-4002-46e6-8530-4f64acb23621"
+        ]
+    },
+    {
+        "_id": "bfe4c159-198d-46bf-8183-220cc822658d",
+        "exhibitionName": "Visions of the Soul",
+        "startDate": "6/30/2022",
+        "endDate": "8/28/2023",
+        "venue": "Convention Center",
+        "gallery": {
+            "_id": "6dd9377e-6f06-45b2-9bd9-31cf2ef260b1",
+            "galleryName": "Gleason-Leuschke",
+            "location": "2978 3rd Court",
+            "contactDetails": "mhightownb@liveinternet.ru"
+        },
+        "displayedArtworks": [
+            "bcb0f9ae-a9d5-48ac-b55b-371e939d5278",
+            "0e08e19f-baaa-47ed-958e-7de1bbada4b9",
+            "e10ce166-757d-4597-82ae-61ae5558d0db",
+            "7e24f225-5696-4fb8-ad51-9c874e00a3bc",
+            "7d4c542a-0822-4d50-bf44-aa848c9054e2",
+            "3419fc1d-d03d-4b26-8aee-908e535f1f63"
+        ]
+    },
+    {
+        "_id": "fa3c0a9c-2242-4474-8d36-08c4c436ffc1",
+        "exhibitionName": "The Magic Within",
+        "startDate": "11/18/2022",
+        "endDate": "9/21/2023",
+        "venue": "Museum",
+        "gallery": {
+            "_id": "bfaeb23c-f64f-4b97-915e-1eabc49dc9c6",
+            "galleryName": "Kris Inc",
+            "location": "0 Jackson Point",
+            "contactDetails": "hlockett9@house.gov"
+        },
+        "displayedArtworks": [
+            "96404c48-910e-46c0-bca9-f8504a87c5c1",
+            "67d64c8d-bdc4-4bdc-b567-5a9494f79871",
+            "2a8432ef-984e-46e5-9d15-bfa3ee249871",
+            "b73460a7-0d1f-4e17-81d7-871fd94ea7d3",
+            "0a239b2d-a796-48bc-b638-d892566fbfc2",
+            "5fdae1b7-bdb8-4b65-9271-d061028c3d0a",
+            "f1f67d0f-1631-49b8-8864-53aba4c58816"
+        ]
+    },
+    {
+        "_id": "c536d3c1-962a-4e54-b3f6-a5abfa64efc7",
+        "exhibitionName": "Reflections in Time",
+        "startDate": "8/8/2022",
+        "endDate": "12/22/2022",
+        "venue": "Museum",
+        "gallery": {
+            "_id": "cbc3f542-26bd-4eaf-a448-521226ef3798",
+            "galleryName": "Williamson and Sons",
+            "location": "98002 Eagle Crest Parkway",
+            "contactDetails": "scampana1@telegraph.co.uk"
+        },
+        "displayedArtworks": [
+            "20d9dcf0-8ef6-42d9-9761-49ec3dd5169b",
+            "e8d57216-fea1-44dd-8eda-334c5ab8d562",
+            "e2105c19-0c40-4de3-8a0e-fa4ab98863e8",
+            "9bced2af-9ec3-4831-b94a-6c3fdf1be216",
+            "4e865e0b-c7d4-4111-a8ca-558897afbb79"
+        ]
+    }
+]

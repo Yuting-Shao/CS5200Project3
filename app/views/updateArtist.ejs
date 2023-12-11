@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Update Artist</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+
+<body>
+    <div class="container">
+        <h1>Update Artist</h1>
+        <form action="/artist/<%= artist._id %>?_method=PUT" method="POST">
+            <div>
+                <label>ID: <input type="text" name="artistID" value="<%= artist._id %>" readonly /></label>
+            </div>
+            <div>
+                <label>Name: <input type="text" name="name" value="<%= artist.name %>" /></label>
+            </div>
+            <div>
+                <label>Biography: <input type="text" name="biography" value="<%= artist.biography %>" /></label>
+            </div>
+            <div>
+                <label>Style: <input type="text" name="style" value="<%= artist.style %>" /></label>
+            </div>
+            <div>
+                <label>Total Exhibitions: <input type="number" name="totalExhibitions"
+                        value="<%= artist.totalExhibitions %>" /></label>
+            </div>
+            <div>
+                <input type="submit" value="Update" />
+            </div>
+        </form>
+    </div>
+    <footer>
+        <div> Made by Yuting</div>
+    </footer>
+</body>
+
+</html>

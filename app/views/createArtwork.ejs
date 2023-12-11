@@ -1,24 +1,44 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-    <meta charset="UTF-8">
-    <title>Create/Update Artwork</title>
+    <title>Create Artwork</title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
 </head>
 
 <body>
     <div class="container">
-        <h1>Create/Update Artwork</h1>
-        <form id="artworkForm" action="/artwork" method="post">
-            <input type="text" name="id" placeholder="Artwork ID" required>
-            <input type="text" name="title" placeholder="Title" required>
-            <input type="text" name="medium" placeholder="Medium" required>
-            <input type="text" name="dimension" placeholder="Dimension" required>
-            <input type="number" name="price" placeholder="Price" required>
-            <button type="submit">Submit</button>
+        <h1>Create Artwork</h1>
+        <form action="/artwork" method="post">
+            <div>
+                <label>Title: <input type="text" name="title" required /></label>
+            </div>
+            <div>
+                <label>Medium: <input type="text" name="medium" required /></label>
+            </div>
+            <div>
+                <label>Dimensions: <input type="text" name="dimension" required /></label>
+            </div>
+            <div>
+                <label>Creation Date: <input type="text" name="creationDate" required /></label>
+            </div>
+            <div>
+                <label>Price: <input type="number" name="price" required /></label>
+            </div>
+            <div>
+                <label>Availability Status: <input type="text" name="availabilityStatus" required /></label>
+            </div>
+            <div>
+                <label>Artist ID (MongoDB ObjectId): <input type="text" name="artistId" /></label>
+            </div>
+            <div>
+                <input type="submit" value="Create" />
+            </div>
         </form>
     </div>
+    <footer>
+        <div> Made by Yuting</div>
+    </footer>
 </body>
 
 </html>

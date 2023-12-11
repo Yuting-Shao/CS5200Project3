@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Update Artwork</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+
+<body>
+    <div class="container">
+        <h1>Update Artwork</h1>
+        <form action="/artwork-cache/<%= artwork.id %>" method="post">
+            <input type="hidden" name="id" value="<%= artwork.id %>">
+
+            <label for="title">Title</label>
+            <input type="text" id="title" name="title" value="<%= artwork.title %>" required>
+
+            <label for="medium">Medium</label>
+            <input type="text" id="medium" name="medium" value="<%= artwork.medium %>" required>
+
+            <label for="dimension">Dimension</label>
+            <input type="text" id="dimension" name="dimension" value="<%= artwork.dimension %>" required>
+
+            <label for="price">Price</label>
+            <input type="number" id="price" name="price" value="<%= artwork.price %>" required>
+
+            <button type="submit">Update</button>
+        </form>
+    </div>
+</body>
+
+</html>

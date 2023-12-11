@@ -1,0 +1,1091 @@
+[
+    {
+        "_id": "2e962ff4-fdbc-4f3f-a4fc-0da04afe2a06",
+        "name": "Arleen Nelissen",
+        "biography": "the artist aims to evoke emotions and provoke thought in the viewer.",
+        "style": "surrealist",
+        "totalExhibitions": 65,
+        "artworks": [
+            "1e0d504c-67c4-4486-b12e-67943c7dca86",
+            "1ed42f98-1627-4381-a0ad-30283e23c30e"
+        ]
+    },
+    {
+        "_id": "6c075c87-080e-42ec-8e07-d797c2c4054d",
+        "name": "Jo ann Furlow",
+        "biography": "gaining recognition and acclaim.",
+        "style": "pop art",
+        "totalExhibitions": 86,
+        "artworks": [
+            "d3274a85-16fb-4e6f-a5ef-a4d80d2a181c"
+        ]
+    },
+    {
+        "_id": "2722639a-4038-4dd4-af83-5467e7978b6f",
+        "name": "Hayes Cossons",
+        "biography": "the artist often incorporates elements of the natural world into their artwork.",
+        "style": "cubist",
+        "totalExhibitions": 7,
+        "artworks": []
+    },
+    {
+        "_id": "cb872fa6-db42-4527-8a9f-2bba8ac8e227",
+        "name": "Casey Pauley",
+        "biography": "Through their art",
+        "style": "expressionist",
+        "totalExhibitions": 76,
+        "artworks": [
+            "d4ec9dbe-41a3-4315-9501-3cf3012a1705"
+        ]
+    },
+    {
+        "_id": "75715b4c-abab-4de9-afa9-48e51cdda4d2",
+        "name": "Cathi Genge",
+        "biography": "The artist's work has been exhibited in galleries around the world",
+        "style": "expressionist",
+        "totalExhibitions": 22,
+        "artworks": [
+            "0f668296-8fb6-412d-9c02-3476cab4854d",
+            "2611297c-b9d0-476d-a80b-8643f9add75e",
+            "0a239b2d-a796-48bc-b638-d892566fbfc2"
+        ]
+    },
+    {
+        "_id": "57743db5-b668-42ca-9854-b75b6830a992",
+        "name": "Gerri Pharo",
+        "biography": "The artist's unique style is characterized by bold brushstrokes and vibrant colors.",
+        "style": "minimalist",
+        "totalExhibitions": 2,
+        "artworks": [
+            "5a3e9752-f391-4f81-bb49-22e2203d21e7",
+            "8d4dcecb-4102-4c5e-9c71-d7bb83b17801",
+            "2535be09-04b9-4b90-a49e-380a2958ac90",
+            "f29af360-2a92-475d-895f-9b349c0bd3ed"
+        ]
+    },
+    {
+        "_id": "40c56869-53a8-4329-a364-e1bdcc755e99",
+        "name": "Janey Candlish",
+        "biography": "The artist's unique style is characterized by bold brushstrokes and vibrant colors.",
+        "style": "surrealist",
+        "totalExhibitions": 75,
+        "artworks": [
+            "a6edcfaa-4865-444c-8b80-da41f4affb60"
+        ]
+    },
+    {
+        "_id": "927c9973-65d0-4545-8ecc-19356158cc5f",
+        "name": "Margarethe Smithin",
+        "biography": "Having a natural talent for creativity",
+        "style": "abstract",
+        "totalExhibitions": 69,
+        "artworks": [
+            "d8a83483-76c3-4bc9-9366-c31901ca8dd9",
+            "ba049cd9-3dc5-4793-96ab-73c7fe30951a",
+            "1936b50c-b8aa-43d6-a916-cb4a07c54046"
+        ]
+    },
+    {
+        "_id": "9204ad68-0b7e-4bfd-bac1-f22b297f6b93",
+        "name": "Ario Penni",
+        "biography": "Born in a small town",
+        "style": "symbolist",
+        "totalExhibitions": 24,
+        "artworks": [
+            "432bf703-d615-4504-bc35-9e818184050c",
+            "57ecc777-e13d-404b-8e51-8b5a338de24c"
+        ]
+    },
+    {
+        "_id": "f9593bd6-d484-4fa6-bea3-622c6f047ede",
+        "name": "Tod Bazelle",
+        "biography": "the artist incorporates elements of their background into their artwork.",
+        "style": "realist",
+        "totalExhibitions": 5,
+        "artworks": [
+            "22cca8db-9c68-4767-9827-c0f75489f5bf"
+        ]
+    },
+    {
+        "_id": "fdcf0cdc-198a-44de-9cc1-53a2311c2a6a",
+        "name": "Corliss Longhurst",
+        "biography": "the artist experiments with different techniques to bring their vision to life.",
+        "style": "realist",
+        "totalExhibitions": 56,
+        "artworks": [
+            "e42daecc-d777-4a3f-95c2-d7562344237e",
+            "96fd9494-10fb-4895-af75-3b43d19a72da"
+        ]
+    },
+    {
+        "_id": "5c237492-e8f9-4c2b-a6a3-4c06662a9a1d",
+        "name": "Thom Storrs",
+        "biography": "the artist incorporates elements of their background into their artwork.",
+        "style": "cubist",
+        "totalExhibitions": 45,
+        "artworks": []
+    },
+    {
+        "_id": "b98033bf-148f-4227-96bf-eeea1ff1b0ef",
+        "name": "Ransell Rumke",
+        "biography": "The artist's work has been featured in numerous publications",
+        "style": "impressionist",
+        "totalExhibitions": 68,
+        "artworks": [
+            "0ae150e9-c86f-4642-b078-5900defab5d6",
+            "57b470ed-f432-43d2-ae8f-874a64a997cb"
+        ]
+    },
+    {
+        "_id": "9b1b590d-4bca-44f0-8a78-6f7f0601403c",
+        "name": "Shepherd Farley",
+        "biography": "With a keen eye for detail",
+        "style": "post-impressionist",
+        "totalExhibitions": 51,
+        "artworks": [
+            "60fe8576-0dc1-4f22-85b8-13937b24cdf3",
+            "08407de9-2c3a-48c2-992f-498e0709b619",
+            "6fa2fd66-47a6-41d2-882e-37815e8470f0",
+            "ab54293e-ee28-41ea-803d-29b3c82b4d4c"
+        ]
+    },
+    {
+        "_id": "09fb952d-c1bd-41ef-8b93-136c0eca40fd",
+        "name": "Anstice Stollenwerck",
+        "biography": "With a keen eye for detail",
+        "style": "expressionist",
+        "totalExhibitions": 76,
+        "artworks": [
+            "91c7258a-d8e3-4f01-92e2-ad018918b260",
+            "7adb654f-6002-4efc-9ec9-5307f7a91618",
+            "ee4f6416-a139-4ccb-ba25-44363c751c54"
+        ]
+    },
+    {
+        "_id": "84d38d99-946b-44ab-bcc2-020f271f15c4",
+        "name": "Deonne Haughton",
+        "biography": "the artist honed their skills through years of practice.",
+        "style": "cubist",
+        "totalExhibitions": 22,
+        "artworks": [
+            "3bbf0fcc-22df-44da-9603-dd620188f0f3"
+        ]
+    },
+    {
+        "_id": "57213b0b-ea72-4475-a773-5c63197e143f",
+        "name": "Deborah Walhedd",
+        "biography": "the artist incorporates elements of their background into their artwork.",
+        "style": "pop art",
+        "totalExhibitions": 24,
+        "artworks": [
+            "9f2f0624-d968-4db9-91c3-a37a97b3b261"
+        ]
+    },
+    {
+        "_id": "3dd634a7-fa0c-4d4f-a437-6a0f54e8fb11",
+        "name": "Shurlock Eunson",
+        "biography": "The artist's unique style is characterized by bold brushstrokes and vibrant colors.",
+        "style": "symbolist",
+        "totalExhibitions": 89,
+        "artworks": [
+            "b2d2a539-314f-46c5-8b45-7af9c64a62c5",
+            "bd541cc3-9eab-4379-aece-91b5268b12fd",
+            "7d4c542a-0822-4d50-bf44-aa848c9054e2"
+        ]
+    },
+    {
+        "_id": "7f4980cf-54e6-4157-a062-2301514e10fd",
+        "name": "Gay Barends",
+        "biography": "The artist's work has been exhibited in galleries around the world",
+        "style": "impressionist",
+        "totalExhibitions": 94,
+        "artworks": [
+            "cd855cef-3c81-4e35-b4f7-05c52438523f",
+            "c89e2252-e1a2-4e07-b14b-12f8b604cc0f"
+        ]
+    },
+    {
+        "_id": "a464ae7a-140d-4b60-b39c-7cf70bf1d1c7",
+        "name": "Timi Twyford",
+        "biography": "Having a natural talent for creativity",
+        "style": "expressionist",
+        "totalExhibitions": 45,
+        "artworks": [
+            "8066d0b8-69fd-4b9d-aad0-97b3a3c13a4d",
+            "6f817fbf-9edc-450b-9e0a-d91be7dbf824"
+        ]
+    },
+    {
+        "_id": "9b9b6bd2-3b06-4cf8-9b83-00620a578f4b",
+        "name": "Sylvan Spleving",
+        "biography": "the artist experiments with different techniques to bring their vision to life.",
+        "style": "surrealist",
+        "totalExhibitions": 17,
+        "artworks": [
+            "2d5a61ad-bf58-4c7d-a9e9-def37bc4dc8c"
+        ]
+    },
+    {
+        "_id": "95fec190-f209-4749-842c-4efabfc3f037",
+        "name": "Leonardo Paolacci",
+        "biography": "showcasing their talent and creativity.",
+        "style": "post-impressionist",
+        "totalExhibitions": 21,
+        "artworks": [
+            "b73460a7-0d1f-4e17-81d7-871fd94ea7d3"
+        ]
+    },
+    {
+        "_id": "4376fe2d-6d76-4065-89fd-df2cff3572d3",
+        "name": "Sherye Giacomozzo",
+        "biography": "the artist creates intricate and mesmerizing compositions.",
+        "style": "cubist",
+        "totalExhibitions": 85,
+        "artworks": [
+            "4134f013-69f8-42e5-be9b-24ad937151a2",
+            "c5b42a66-4d97-4cf1-bbc2-618b33ed4511"
+        ]
+    },
+    {
+        "_id": "bbcd6d0e-4806-4497-9e33-5747f1911ffb",
+        "name": "Latia Cocci",
+        "biography": "the artist creates intricate and mesmerizing compositions.",
+        "style": "pop art",
+        "totalExhibitions": 82,
+        "artworks": []
+    },
+    {
+        "_id": "718b970b-4ec2-4e9f-b98e-9681d90a42c1",
+        "name": "Mona Brunon",
+        "biography": "Having a natural talent for creativity",
+        "style": "minimalist",
+        "totalExhibitions": 60,
+        "artworks": [
+            "dbda3678-8c8c-4d0e-8d74-b0524ba10fc7"
+        ]
+    },
+    {
+        "_id": "d22915dc-3835-4cd3-974e-dc580c094771",
+        "name": "Tristam Courteney",
+        "biography": "the artist honed their skills through years of practice.",
+        "style": "symbolist",
+        "totalExhibitions": 23,
+        "artworks": []
+    },
+    {
+        "_id": "ead0a2ef-6c96-49e7-acdc-f644952a7d63",
+        "name": "Caroline Rief",
+        "biography": "Having a natural talent for creativity",
+        "style": "minimalist",
+        "totalExhibitions": 22,
+        "artworks": [
+            "b3f28588-5e83-4dcb-ba9e-997e359d9a7e",
+            "0e9074c4-c1df-447e-b20f-2357174fc712"
+        ]
+    },
+    {
+        "_id": "3e877ff3-bb9f-4934-a88b-fd312923ee96",
+        "name": "Nesta Dignon",
+        "biography": "showcasing their talent and creativity.",
+        "style": "minimalist",
+        "totalExhibitions": 64,
+        "artworks": [
+            "5a9a1f71-382d-45c4-9a06-e7ac2941924a",
+            "672c0ba6-4d4f-4bc6-be28-fd6ea9d8b954"
+        ]
+    },
+    {
+        "_id": "02456fed-6f3b-4312-8c99-6a38dce31ebf",
+        "name": "Dewitt Cherrison",
+        "biography": "Deeply influenced by their cultural heritage",
+        "style": "post-impressionist",
+        "totalExhibitions": 85,
+        "artworks": []
+    },
+    {
+        "_id": "a0274dc8-0167-4b56-a501-a49bf964efe1",
+        "name": "Paco Tarbett",
+        "biography": "With a keen eye for detail",
+        "style": "minimalist",
+        "totalExhibitions": 18,
+        "artworks": [
+            "be2e226c-9e75-4d72-91c3-583a62b54760",
+            "46e5418f-575a-4b10-8c72-c459ebfa7769"
+        ]
+    },
+    {
+        "_id": "b2975651-8370-4975-814f-6b0b3649e63c",
+        "name": "Wolfy Danielski",
+        "biography": "the artist honed their skills through years of practice.",
+        "style": "realist",
+        "totalExhibitions": 95,
+        "artworks": [
+            "a908b2a3-12a4-44fc-955f-81b3c7c4cd02"
+        ]
+    },
+    {
+        "_id": "272aaa22-2b21-4905-b669-23bc457b1da9",
+        "name": "Gleda Catterill",
+        "biography": "the artist incorporates elements of their background into their artwork.",
+        "style": "abstract",
+        "totalExhibitions": 23,
+        "artworks": [
+            "d265f5d9-2652-4853-b3ea-63e770039a26"
+        ]
+    },
+    {
+        "_id": "dd8f2751-ede5-4ea5-8a46-9e1fe8950b57",
+        "name": "Gayle Baldung",
+        "biography": "the artist honed their skills through years of practice.",
+        "style": "minimalist",
+        "totalExhibitions": 43,
+        "artworks": [
+            "80289983-5f18-4374-a523-e4c7668cd511",
+            "aabab9b9-d113-49ff-a003-440f8f322642"
+        ]
+    },
+    {
+        "_id": "31a3c8cc-9a96-4853-8b65-735b2c52df0d",
+        "name": "Tobias Wainwright",
+        "biography": "the artist aims to evoke emotions and provoke thought in the viewer.",
+        "style": "pop art",
+        "totalExhibitions": 11,
+        "artworks": [
+            "d920ba15-bb68-4307-a2da-12fcfd5dcd07"
+        ]
+    },
+    {
+        "_id": "cadb151b-97bb-41fa-8776-fca8b9bd7ae7",
+        "name": "Liuka Korneichik",
+        "biography": "the artist often incorporates elements of the natural world into their artwork.",
+        "style": "surrealist",
+        "totalExhibitions": 11,
+        "artworks": [
+            "009df90c-52a8-43b0-b19e-26b831214286",
+            "e880ef21-def8-45a7-9a15-71f91c8573af",
+            "1a7271b8-6ad7-43d5-ac37-3fbdceef34c5",
+            "3419fc1d-d03d-4b26-8aee-908e535f1f63"
+        ]
+    },
+    {
+        "_id": "3e54de51-4e26-4cf2-baa6-54e0ffed527c",
+        "name": "Janis Betke",
+        "biography": "showcasing their talent and creativity.",
+        "style": "impressionist",
+        "totalExhibitions": 39,
+        "artworks": [
+            "2dc8f06c-f236-41c7-bec6-8930f753c05f",
+            "f3ff799a-b9a8-4a39-89a5-cc865d25638d"
+        ]
+    },
+    {
+        "_id": "a6461cec-c685-46b2-9147-e34a837af426",
+        "name": "Hazlett Downer",
+        "biography": "With a keen eye for detail",
+        "style": "symbolist",
+        "totalExhibitions": 4,
+        "artworks": [
+            "5ad6c3f5-cb79-424a-a73b-874b269384a9",
+            "9bced2af-9ec3-4831-b94a-6c3fdf1be216"
+        ]
+    },
+    {
+        "_id": "2c738dd6-793b-443f-9e9d-c10e21ddf510",
+        "name": "Virginia Langeley",
+        "biography": "Exploring various mediums",
+        "style": "realist",
+        "totalExhibitions": 54,
+        "artworks": [
+            "cf777ed2-13b5-41fa-b15e-9526c492cf71"
+        ]
+    },
+    {
+        "_id": "8b792248-183f-41d1-b1f1-33a02707beb3",
+        "name": "Burtie Chaplain",
+        "biography": "the artist experiments with different techniques to bring their vision to life.",
+        "style": "surrealist",
+        "totalExhibitions": 7,
+        "artworks": [
+            "93627221-56b4-4300-a085-b82f0c323e24",
+            "16b0ddf9-4c4a-48d8-accf-a81841b05bcf"
+        ]
+    },
+    {
+        "_id": "16cf1b45-404a-4797-aeb5-f5ea77fc9307",
+        "name": "Arda Hatherley",
+        "biography": "Drawing inspiration from nature",
+        "style": "minimalist",
+        "totalExhibitions": 44,
+        "artworks": [
+            "92dc9c27-0b9c-4752-9168-02fbb421dcde"
+        ]
+    },
+    {
+        "_id": "733000d4-d7c8-486a-8742-4baa13e3a7a0",
+        "name": "Kamilah Dankov",
+        "biography": "The artist's unique style is characterized by bold brushstrokes and vibrant colors.",
+        "style": "impressionist",
+        "totalExhibitions": 44,
+        "artworks": [
+            "84465318-0ca9-4951-bc0a-3f0c70d42980",
+            "8fadec82-7332-4bb8-affc-34040854814c",
+            "b6d4b9e5-6b93-4934-aced-b891fd920a4e",
+            "43be88d0-fece-4bd8-99ea-96929379c30a",
+            "a1ae33d3-7451-436d-8d12-3ea090fe47a1"
+        ]
+    },
+    {
+        "_id": "ce1c7760-eba2-492f-935c-52a537063304",
+        "name": "Almeria Baulch",
+        "biography": "the artist experiments with different techniques to bring their vision to life.",
+        "style": "pop art",
+        "totalExhibitions": 35,
+        "artworks": []
+    },
+    {
+        "_id": "129024bf-a328-42f4-9d43-2f3a6c03a880",
+        "name": "Hobey Wilcox",
+        "biography": "the artist creates intricate and mesmerizing compositions.",
+        "style": "minimalist",
+        "totalExhibitions": 91,
+        "artworks": [
+            "b99d23eb-37d7-458a-a244-744d03d614b4",
+            "4e865e0b-c7d4-4111-a8ca-558897afbb79"
+        ]
+    },
+    {
+        "_id": "59fd09d1-6697-4a8c-9230-0204c6b91c59",
+        "name": "Ronica Gheorghescu",
+        "biography": "Through their art",
+        "style": "realist",
+        "totalExhibitions": 3,
+        "artworks": [
+            "ced474db-240e-47f3-9346-9ad0bb56dd40",
+            "b6afbfe4-4624-429b-b762-50270cea3be2"
+        ]
+    },
+    {
+        "_id": "8433200e-500b-4600-873e-bb953c24d857",
+        "name": "Chrisse Yantsurev",
+        "biography": "Having a natural talent for creativity",
+        "style": "symbolist",
+        "totalExhibitions": 6,
+        "artworks": [
+            "47b60a40-f0a0-4786-ab6e-d855c3bab184",
+            "bc256a31-f0c8-4360-ae12-97c9577f2a33",
+            "389e0325-124e-404a-9540-62b08fc8f687"
+        ]
+    },
+    {
+        "_id": "01c38e4a-9164-461d-adbf-e91103e3ebe1",
+        "name": "Arlen Madgwick",
+        "biography": "the artist incorporates elements of their background into their artwork.",
+        "style": "realist",
+        "totalExhibitions": 6,
+        "artworks": [
+            "64a019b6-62c1-404b-a56f-a097f9630568"
+        ]
+    },
+    {
+        "_id": "eb217912-4a54-406e-b1f6-62b30cb48096",
+        "name": "Devina Halsted",
+        "biography": "the artist creates intricate and mesmerizing compositions.",
+        "style": "realist",
+        "totalExhibitions": 14,
+        "artworks": [
+            "94ee1456-6bf2-4c91-bab9-8b26e0df2a0a",
+            "88da4586-5080-4f27-8616-ec762e16b6ca",
+            "3a1dbc31-9aff-4331-bd91-57199c6c0e47"
+        ]
+    },
+    {
+        "_id": "2b955dbd-22a8-4e81-af00-608b055bb533",
+        "name": "Fayre Rillstone",
+        "biography": "Exploring various mediums",
+        "style": "symbolist",
+        "totalExhibitions": 28,
+        "artworks": [
+            "afaf81ac-36c1-4e9f-acae-139de0a14866"
+        ]
+    },
+    {
+        "_id": "68b50e2f-647b-4fb4-8c2a-e5dc2fc5476b",
+        "name": "Phillida Cissen",
+        "biography": "Through their art",
+        "style": "surrealist",
+        "totalExhibitions": 9,
+        "artworks": [
+            "b270b15a-0a37-4bbc-9d99-c157de9d463d",
+            "36133ec4-76c2-413d-85d3-8f3770154c82"
+        ]
+    },
+    {
+        "_id": "3dabaffd-b7d0-4321-8d35-71504f4ef417",
+        "name": "Katrine Webben",
+        "biography": "Drawing inspiration from nature",
+        "style": "abstract",
+        "totalExhibitions": 15,
+        "artworks": [
+            "748b08a0-c746-4192-8997-278bb6ef5c79"
+        ]
+    },
+    {
+        "_id": "c940026a-bcb8-47f4-a302-f8452df2ff64",
+        "name": "Orren Feaveryear",
+        "biography": "Drawing inspiration from nature",
+        "style": "cubist",
+        "totalExhibitions": 1,
+        "artworks": [
+            "114f3851-f4c4-42b0-a6c2-9f60a9b3e1dc",
+            "0e84f79f-623a-4c88-992b-84c101fbb8b0",
+            "646acf5f-bb4e-44b8-a621-7cc2dfb9f40c"
+        ]
+    },
+    {
+        "_id": "51708ce2-65a4-4a2a-8be1-570e5956ec9d",
+        "name": "Artemis Brisker",
+        "biography": "the artist experiments with different techniques to bring their vision to life.",
+        "style": "cubist",
+        "totalExhibitions": 49,
+        "artworks": [
+            "524887e4-d308-4f78-8f0f-7ba1c3d077b8",
+            "a83eec3b-f7a3-4f04-9c1d-961085300910"
+        ]
+    },
+    {
+        "_id": "b8f78d27-ba40-4855-9c02-35a82da23c2d",
+        "name": "Saul Scotcher",
+        "biography": "gaining recognition and acclaim.",
+        "style": "pop art",
+        "totalExhibitions": 58,
+        "artworks": []
+    },
+    {
+        "_id": "094c05e4-0527-4dda-825d-73c9a42fe529",
+        "name": "Colet Armstead",
+        "biography": "the artist honed their skills through years of practice.",
+        "style": "cubist",
+        "totalExhibitions": 29,
+        "artworks": [
+            "1a415dc0-7080-45ba-96ca-4b91ff5bbe8f",
+            "1fde95cb-0a1d-4da8-946d-0fbfc0473b11",
+            "521bdb5f-fc59-47da-831c-61bf0425d8d4",
+            "77485dc0-fa10-43ae-bc98-f0fccce08e28"
+        ]
+    },
+    {
+        "_id": "990ddb11-8960-4c78-b338-4c0a94c1a7b9",
+        "name": "Alica Coping",
+        "biography": "the artist aims to evoke emotions and provoke thought in the viewer.",
+        "style": "expressionist",
+        "totalExhibitions": 15,
+        "artworks": [
+            "1de16bd4-a81b-46c6-a019-6e33dfefefb7",
+            "851bdce2-e21a-4dc7-8b24-5a7367fc2e8d"
+        ]
+    },
+    {
+        "_id": "601a6a1e-0f46-4d83-b1e8-301d69830863",
+        "name": "Marcelia Opdenorth",
+        "biography": "The artist's work has been exhibited in galleries around the world",
+        "style": "post-impressionist",
+        "totalExhibitions": 31,
+        "artworks": [
+            "eafa4817-8d13-47e4-8539-2035ada99a65",
+            "a324c8d2-ad30-4035-bf3c-103673b70c58",
+            "9b71fea2-c7a9-4709-9201-0b0e1b3ed3d0",
+            "34890123-2e84-4f38-839c-8917c3b073ae"
+        ]
+    },
+    {
+        "_id": "a0184a48-0dbe-4a24-aef1-270cdf661902",
+        "name": "Lucas Gaukrodge",
+        "biography": "Born in a small town",
+        "style": "realist",
+        "totalExhibitions": 89,
+        "artworks": [
+            "891f8114-d72f-4af4-ad08-1f2d0edd371f",
+            "c5302120-cf60-4edf-b3a6-b858f1c0d42f",
+            "6e0360d8-616c-4dd6-b1bd-3a712c72d657"
+        ]
+    },
+    {
+        "_id": "7c05208d-df69-4f5a-afa8-a12a8d0bdf5a",
+        "name": "Jilly Richly",
+        "biography": "Exploring various mediums",
+        "style": "post-impressionist",
+        "totalExhibitions": 22,
+        "artworks": [
+            "8d6a6d8a-4111-4f3b-bfb7-117df81ef34c"
+        ]
+    },
+    {
+        "_id": "1e7c056b-c128-45a8-9306-e2c1d1e4a732",
+        "name": "Tory Deackes",
+        "biography": "Through their art",
+        "style": "realist",
+        "totalExhibitions": 12,
+        "artworks": []
+    },
+    {
+        "_id": "2f3fd5a4-ec0b-4881-afc2-82610c403c6f",
+        "name": "Kingsly Kruger",
+        "biography": "Exploring various mediums",
+        "style": "post-impressionist",
+        "totalExhibitions": 67,
+        "artworks": [
+            "a97a8e0d-0f67-441c-9640-0a1d6477f209",
+            "2a8432ef-984e-46e5-9d15-bfa3ee249871",
+            "f8b14ab7-ae24-4126-88c3-d48c85b6a48c"
+        ]
+    },
+    {
+        "_id": "5904e670-5f52-48cc-9bcd-d1a4964d2576",
+        "name": "Glenn Perrott",
+        "biography": "the artist creates intricate and mesmerizing compositions.",
+        "style": "pop art",
+        "totalExhibitions": 43,
+        "artworks": [
+            "a318e210-e7b2-44b4-99b3-2a69544b4047",
+            "5b276f8e-8081-4e99-8e94-d4cd021ef38e"
+        ]
+    },
+    {
+        "_id": "7f6af4cf-2115-4f7e-80ae-7a99aa66ec38",
+        "name": "Moses Whelpton",
+        "biography": "With a keen eye for detail",
+        "style": "realist",
+        "totalExhibitions": 67,
+        "artworks": [
+            "53b9c3e5-bfbc-49bc-9eb2-24e11dd76ccb",
+            "80bd2d61-47d9-4806-a3aa-a3a2558393c2"
+        ]
+    },
+    {
+        "_id": "7350dc6b-bc8c-4e34-bc30-59573b3fc68d",
+        "name": "Chanda Salack",
+        "biography": "the artist often incorporates elements of the natural world into their artwork.",
+        "style": "surrealist",
+        "totalExhibitions": 8,
+        "artworks": [
+            "4c8868e5-60c4-4588-9e58-08e4854ddf09"
+        ]
+    },
+    {
+        "_id": "364b6e43-8283-4dc9-9783-84365c9dc4d4",
+        "name": "Brianna McGettigan",
+        "biography": "the artist discovered their passion for painting at a young age.",
+        "style": "symbolist",
+        "totalExhibitions": 88,
+        "artworks": [
+            "3e788f61-a4fd-419c-8168-a83e5a28e098",
+            "e349f6e0-6d4e-4439-a3e6-7f4a33c29dec",
+            "b67a2104-9f6c-4792-988b-16c64f54cea3"
+        ]
+    },
+    {
+        "_id": "62a7e7ce-5e03-43aa-b7f7-720765bb4710",
+        "name": "Ertha Tregale",
+        "biography": "The artist's work has been featured in numerous publications",
+        "style": "post-impressionist",
+        "totalExhibitions": 67,
+        "artworks": [
+            "8548be7d-3bb0-4953-ba7e-470290cbb5a4",
+            "295d05c2-4c1b-4333-9c2c-759223d347a4",
+            "164dad57-43ca-4877-9d91-340121bec32c"
+        ]
+    },
+    {
+        "_id": "3ade1bb4-7427-40a5-9d34-39b61a209647",
+        "name": "Pat Silmon",
+        "biography": "the artist creates intricate and mesmerizing compositions.",
+        "style": "cubist",
+        "totalExhibitions": 80,
+        "artworks": [
+            "d89dfe31-4bdf-4db5-9b34-0b90a583cf86",
+            "e2a5616e-c144-49c3-b66c-426acf3a8c26",
+            "fe056ef4-2a1d-4d90-9b07-46a8f625030b"
+        ]
+    },
+    {
+        "_id": "aeb4f59d-592d-46f4-966d-9cd434e510a5",
+        "name": "Marni Rix",
+        "biography": "The artist's unique style is characterized by bold brushstrokes and vibrant colors.",
+        "style": "pop art",
+        "totalExhibitions": 79,
+        "artworks": [
+            "e8d57216-fea1-44dd-8eda-334c5ab8d562"
+        ]
+    },
+    {
+        "_id": "c709ae3b-b8b0-451f-9eaa-734e3aa27ac3",
+        "name": "Nady Freezor",
+        "biography": "Having a natural talent for creativity",
+        "style": "symbolist",
+        "totalExhibitions": 27,
+        "artworks": []
+    },
+    {
+        "_id": "13f4ec3f-e1f4-4bfc-ae5f-549557563059",
+        "name": "Karilynn Cronshaw",
+        "biography": "the artist discovered their passion for painting at a young age.",
+        "style": "pop art",
+        "totalExhibitions": 27,
+        "artworks": [
+            "4df09766-72be-4091-a84e-d863885b3b2b",
+            "82add192-21d2-4cb2-aa66-302b98ae77d5"
+        ]
+    },
+    {
+        "_id": "938ca92e-589a-4653-a32d-e598345e9262",
+        "name": "Petronille Riggoll",
+        "biography": "the artist incorporates elements of their background into their artwork.",
+        "style": "post-impressionist",
+        "totalExhibitions": 66,
+        "artworks": [
+            "c708901a-8e81-4613-a6a8-43b78f12171d",
+            "289b056a-8815-4e31-bb63-5c8dfade18cc",
+            "daff8594-f06c-4da9-ac83-990b802c3c7a",
+            "0750a8c2-ac4a-4848-87a7-93a39fd791cd"
+        ]
+    },
+    {
+        "_id": "2cabfcb2-56db-473e-b520-6dad91aa68ab",
+        "name": "Pancho Arndtsen",
+        "biography": "the artist discovered their passion for painting at a young age.",
+        "style": "cubist",
+        "totalExhibitions": 25,
+        "artworks": []
+    },
+    {
+        "_id": "2b78e4fa-7bd2-4c77-9d1e-4d3364956881",
+        "name": "Cecilia Blakes",
+        "biography": "the artist incorporates elements of their background into their artwork.",
+        "style": "symbolist",
+        "totalExhibitions": 76,
+        "artworks": [
+            "506e5144-0cfc-467c-9b1c-cb701289c0fa"
+        ]
+    },
+    {
+        "_id": "a4340883-40ae-4008-86f2-bbcae84acad3",
+        "name": "Letti Fordy",
+        "biography": "Having a natural talent for creativity",
+        "style": "surrealist",
+        "totalExhibitions": 42,
+        "artworks": [
+            "20abc9bb-5fec-429f-aeaf-7c539046dc5e",
+            "9dd55c4e-a86e-4af7-ab8d-30ce7ca64502"
+        ]
+    },
+    {
+        "_id": "1240dce4-5efa-4d03-8d90-3c637b3b1204",
+        "name": "Granny Gibbieson",
+        "biography": "The artist's unique style is characterized by bold brushstrokes and vibrant colors.",
+        "style": "surrealist",
+        "totalExhibitions": 25,
+        "artworks": [
+            "a742a333-cf10-4a46-9d7e-18a77bfbfea2",
+            "393bea66-4405-4ef4-86c6-ab8a15b16f09",
+            "335cb38f-5984-4093-ac69-4dceecc8f3a9"
+        ]
+    },
+    {
+        "_id": "84c6f562-1a6d-4bbb-b159-f2d8a6128ad2",
+        "name": "Abbey Archibald",
+        "biography": "Born in a small town",
+        "style": "impressionist",
+        "totalExhibitions": 22,
+        "artworks": [
+            "bcb0f9ae-a9d5-48ac-b55b-371e939d5278"
+        ]
+    },
+    {
+        "_id": "ab267d9c-8685-43c6-b6e0-5e1e69f69b20",
+        "name": "Wallis Gideon",
+        "biography": "The artist's unique style is characterized by bold brushstrokes and vibrant colors.",
+        "style": "abstract",
+        "totalExhibitions": 81,
+        "artworks": [
+            "4ca4344b-2167-4b30-8665-fb91bb6dc13e",
+            "7e24f225-5696-4fb8-ad51-9c874e00a3bc"
+        ]
+    },
+    {
+        "_id": "6c65842e-5ece-4f72-a5c9-a28bba2018d7",
+        "name": "Bennett Braisby",
+        "biography": "With a keen eye for detail",
+        "style": "symbolist",
+        "totalExhibitions": 35,
+        "artworks": [
+            "33883f3c-ca69-40b5-b449-2b4eaa97b86f"
+        ]
+    },
+    {
+        "_id": "253614f9-5da9-409e-b574-edcfad2d42f7",
+        "name": "Yvette Stirman",
+        "biography": "Deeply influenced by their cultural heritage",
+        "style": "expressionist",
+        "totalExhibitions": 25,
+        "artworks": [
+            "6aaa8ecc-2360-41b5-b929-788f30539a4f",
+            "7afd0a3c-67b9-4747-b1eb-d24af1947511"
+        ]
+    },
+    {
+        "_id": "84ea16c1-d06c-4b89-8731-3b758dacf682",
+        "name": "Massimo Rostern",
+        "biography": "the artist incorporates elements of their background into their artwork.",
+        "style": "surrealist",
+        "totalExhibitions": 11,
+        "artworks": []
+    },
+    {
+        "_id": "e2c06eef-6dc6-4751-9dd8-ebe6b63157ee",
+        "name": "Antone Rowlin",
+        "biography": "The artist's work has been featured in numerous publications",
+        "style": "realist",
+        "totalExhibitions": 24,
+        "artworks": [
+            "e2105c19-0c40-4de3-8a0e-fa4ab98863e8",
+            "42844415-c255-47c7-9984-8b02699a9155"
+        ]
+    },
+    {
+        "_id": "d4b996dc-82c2-433d-8b35-267c50ccb3cc",
+        "name": "Tabbi Hatterslay",
+        "biography": "Drawing inspiration from nature",
+        "style": "cubist",
+        "totalExhibitions": 72,
+        "artworks": [
+            "886b9fb1-a518-4413-bbca-1e789333ee00",
+            "202d159c-48d7-4f18-ac49-e97625ce284b",
+            "98ba456e-67f3-49c2-abe6-5e4d88eb7c37"
+        ]
+    },
+    {
+        "_id": "f8d3e36e-a4fb-4327-a0a9-3c7413ee6bb6",
+        "name": "Helaina Commings",
+        "biography": "Having a natural talent for creativity",
+        "style": "cubist",
+        "totalExhibitions": 33,
+        "artworks": [
+            "20d9dcf0-8ef6-42d9-9761-49ec3dd5169b"
+        ]
+    },
+    {
+        "_id": "b344bcc5-484e-4e9e-a62b-05450cf608ff",
+        "name": "Wes Duckerin",
+        "biography": "Drawing inspiration from nature",
+        "style": "post-impressionist",
+        "totalExhibitions": 9,
+        "artworks": [
+            "97f96efb-fe53-46ae-bcbc-d6bf89ead40d"
+        ]
+    },
+    {
+        "_id": "57fd5527-cb09-46ab-9f51-886d1bb6e777",
+        "name": "Lyndel Lygo",
+        "biography": "Through their art",
+        "style": "impressionist",
+        "totalExhibitions": 74,
+        "artworks": [
+            "e1198bd5-b9f4-4c8b-ad68-cbdee6b5d8a5",
+            "1b11c0bc-93f6-49a8-9f9d-1e52e1dffc79",
+            "1b4260d9-f464-4446-bcca-8c007659f15f"
+        ]
+    },
+    {
+        "_id": "678dfd8b-7ba8-4ae1-9d1c-7d9c855c2af4",
+        "name": "Loralyn Bosanko",
+        "biography": "the artist discovered their passion for painting at a young age.",
+        "style": "expressionist",
+        "totalExhibitions": 37,
+        "artworks": [
+            "73ba8522-9a2e-4fd9-b05b-395277e5323d",
+            "8eb0e54f-48de-4e0f-843a-9eb2a90fdfad"
+        ]
+    },
+    {
+        "_id": "157c4086-0062-41c4-9c81-11e6dee50f84",
+        "name": "Dav Holt",
+        "biography": "gaining recognition and acclaim.",
+        "style": "abstract",
+        "totalExhibitions": 49,
+        "artworks": [
+            "91cea3bf-2eaa-4440-bd5d-c09ba7e93ecb",
+            "543f6830-1f19-44c0-b708-702a6f1bd77d",
+            "89b88116-7233-4e9f-87f4-cd86469dde37"
+        ]
+    },
+    {
+        "_id": "34b3cc48-efc4-4f88-8f6a-ba2ad15c176d",
+        "name": "Lauraine Cahalan",
+        "biography": "The artist's work has been exhibited in galleries around the world",
+        "style": "expressionist",
+        "totalExhibitions": 24,
+        "artworks": [
+            "21aa2bd3-5738-4ede-9ae2-1ed85d39753d",
+            "0795858c-cf71-4c16-b504-258a314e72f1",
+            "82cb79c2-4002-46e6-8530-4f64acb23621",
+            "aedfc011-ba4c-4dba-9c4a-6f06ea755d5e",
+            "f98c4c36-cc9f-4989-b0dc-4d071f59c3f9"
+        ]
+    },
+    {
+        "_id": "17f05565-4dc8-4162-8eb7-b2cb07b65132",
+        "name": "Cherish Gosse",
+        "biography": "Drawing inspiration from nature",
+        "style": "pop art",
+        "totalExhibitions": 38,
+        "artworks": [
+            "4fe06f6d-ea22-4bfb-8521-24720af5b7f4",
+            "f1f67d0f-1631-49b8-8864-53aba4c58816"
+        ]
+    },
+    {
+        "_id": "a10e6b81-f39c-4639-8018-84cb941f876f",
+        "name": "Chelsy Gribbell",
+        "biography": "the artist experiments with different techniques to bring their vision to life.",
+        "style": "realist",
+        "totalExhibitions": 1,
+        "artworks": [
+            "583787db-a51c-40a7-8a3b-09615d7f5d7f",
+            "40486368-991c-4124-ba14-b0d21f2e9985",
+            "e10ce166-757d-4597-82ae-61ae5558d0db",
+            "5fdae1b7-bdb8-4b65-9271-d061028c3d0a"
+        ]
+    },
+    {
+        "_id": "ee00bc92-ead4-45e7-b183-7f2c718aa74b",
+        "name": "Celestyn Liley",
+        "biography": "Exploring various mediums",
+        "style": "realist",
+        "totalExhibitions": 84,
+        "artworks": [
+            "562ea66c-7dde-4e17-8dd5-9b0a2a303fb4"
+        ]
+    },
+    {
+        "_id": "48b49c7a-f1a6-4146-baa8-36c413f0b39f",
+        "name": "Ede Aysik",
+        "biography": "The artist's work has been featured in numerous publications",
+        "style": "expressionist",
+        "totalExhibitions": 90,
+        "artworks": [
+            "0e08e19f-baaa-47ed-958e-7de1bbada4b9",
+            "7409c910-bce2-43a9-8a3b-4b93d5ae6556"
+        ]
+    },
+    {
+        "_id": "060c41d1-5456-4be4-ab86-317bbc7cea94",
+        "name": "Donny Rabbet",
+        "biography": "With a keen eye for detail",
+        "style": "minimalist",
+        "totalExhibitions": 55,
+        "artworks": [
+            "552c62ad-56b1-4301-b735-ba8f2ada4ad5",
+            "67d64c8d-bdc4-4bdc-b567-5a9494f79871",
+            "f9512c46-d13f-4c44-90b1-3d871c390ee8",
+            "e2524f98-2d9d-4609-93df-2060970a6638"
+        ]
+    },
+    {
+        "_id": "fd2f2f7c-ab3e-4ad7-8dac-bac98798fe77",
+        "name": "Aylmer Hanny",
+        "biography": "Through their art",
+        "style": "abstract",
+        "totalExhibitions": 94,
+        "artworks": [
+            "85fb402b-12b4-49a3-90db-cac21be9714f",
+            "e94569a6-57d7-4cad-9978-cfd0f8a17177",
+            "e9f060cf-2410-41f4-a97f-18e36eb701b9",
+            "877e1c42-412d-467c-acd0-45e53cd9e9bd"
+        ]
+    },
+    {
+        "_id": "80913c66-187a-4db1-bb59-a828ab7dc9e5",
+        "name": "Karisa Jopp",
+        "biography": "the artist creates intricate and mesmerizing compositions.",
+        "style": "post-impressionist",
+        "totalExhibitions": 26,
+        "artworks": [
+            "b780b55b-80fe-4a8f-9100-4447853766f6",
+            "c34296dd-882d-4ca0-a613-dd80a93e0f3a",
+            "32a580d3-443b-4232-bf5f-e3e90eefb605",
+            "57155d09-774e-4427-9660-21c477c1f328"
+        ]
+    },
+    {
+        "_id": "66d4e2c3-db4f-4867-a8ed-bdf689a78438",
+        "name": "Des Dannehl",
+        "biography": "the artist discovered their passion for painting at a young age.",
+        "style": "surrealist",
+        "totalExhibitions": 75,
+        "artworks": [
+            "3c6162d3-742f-466b-87ec-d5fbb0c31bd8",
+            "f9223554-1d29-4a62-a208-1e96710befe9",
+            "1d812e11-66a8-475e-be78-02d64ed241e3"
+        ]
+    },
+    {
+        "_id": "3346e578-77dc-4bee-9368-208125bacbf5",
+        "name": "Marty Cockaday",
+        "biography": "gaining recognition and acclaim.",
+        "style": "cubist",
+        "totalExhibitions": 72,
+        "artworks": [
+            "f3621d90-2d6a-466b-b9fa-00a4d7140256",
+            "75df405b-5b8d-4d03-9e14-fba4f42fe0ac"
+        ]
+    },
+    {
+        "_id": "8c3f659c-f392-4942-922c-ca122d037bbd",
+        "name": "Laird Tadgell",
+        "biography": "the artist experiments with different techniques to bring their vision to life.",
+        "style": "surrealist",
+        "totalExhibitions": 8,
+        "artworks": [
+            "f53d283a-6aac-4c5f-9027-df0eced773a1",
+            "867290eb-6f53-4725-897e-4e1b9426f98d",
+            "736cb8f3-db29-4fa9-9a7f-736162aab88f"
+        ]
+    },
+    {
+        "_id": "b7785c12-357a-4dd8-ab14-2c3eca7cf311",
+        "name": "Junia Mariner",
+        "biography": "the artist creates intricate and mesmerizing compositions.",
+        "style": "minimalist",
+        "totalExhibitions": 28,
+        "artworks": [
+            "2827d11c-dbbf-4908-a554-531937e80752",
+            "5c92d4b0-ffd6-495a-b775-a7a383ed2308",
+            "0e64d611-0e9b-4868-ac5f-46e95aa2872d"
+        ]
+    },
+    {
+        "_id": "6cbb4c87-dea0-441d-b6d3-41388c812657",
+        "name": "Foss Wapple",
+        "biography": "With a keen eye for detail",
+        "style": "impressionist",
+        "totalExhibitions": 51,
+        "artworks": [
+            "27cf7027-0b27-4390-a4f5-a521b9c1901f",
+            "04077046-5c78-4847-813a-8664f3f1f0c9"
+        ]
+    },
+    {
+        "_id": "51fa2244-55f2-45ae-ab91-c379651fe082",
+        "name": "Cissiee Laffin",
+        "biography": "the artist honed their skills through years of practice.",
+        "style": "cubist",
+        "totalExhibitions": 96,
+        "artworks": [
+            "96404c48-910e-46c0-bca9-f8504a87c5c1",
+            "da9c1da7-e077-4d4c-ab44-d505b16b1383",
+            "4165f0f7-fd3d-421a-8668-5a6c05d4ca20",
+            "8c826882-cbf6-431d-964f-e9dc6b01c4af",
+            "6bfa210b-3146-40c3-b65b-6528eba77ced"
+        ]
+    }
+]

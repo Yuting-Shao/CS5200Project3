@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Artworks of Artist <%= artistID %>
+    </title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+
+<body>
+    <div class="container">
+        <h1>Artworks of Artist <%= artistID %>
+        </h1>
+
+        <% if (artworks.length===0) { %>
+            <p>No artworks found for this artist.</p>
+            <% } else { %>
+                <% artworks.forEach(function(artwork) { %>
+                    <div class="artwork-card">
+                        <h3>
+                            <%= artwork.title %>
+                        </h3>
+                        <p>Price: <%= artwork.price %>
+                        </p>
+                        <p>ID: <%= artwork._id %>
+                        </p>
+                        <p>Artist Name: <%= artwork.artist ? artwork.artist.name : 'N/A' %>
+                        </p>
+                        <p>Medium: <%= artwork.medium %>
+                        </p>
+                        <p>Dimensions: <%= artwork.dimension %>
+                        </p>
+                        <p>Creation Date: <%= artwork.creationDate %>
+                        </p>
+                        <p>Availability Status: <%= artwork.availabilityStatus %>
+                        </p>
+                        <% if (artwork.exhibitions && artwork.exhibitions.length> 0) { %>
+                            <div>
+                                <h4>Exhibitions:</h4>
+                                <ul>
+                                    <% artwork.exhibitions.forEach(function(exhibition) { %>
+                                        <li>
+                                            <%= exhibition.exhibitionName %> at <%= exhibition.venue %>
+                                        </li>
+                                        <% }); %>
+                                </ul>
+                            </div>
+                            <% } %>
+                                <% if (artwork.collector) { %>
+                                    <p>Collected By: <%= artwork.collector.collectorName %>
+                                    </p>
+                                    <% } %>
+                    </div>
+                    <% }); %>
+                        <% } %>
+    </div>
+
+    <footer>
+        <div> Made by Yuting</div>
+    </footer>
+</body>
+
+</html>

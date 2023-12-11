@@ -1,0 +1,210 @@
+[
+    {
+        "_id": "3e080e80-e6af-4443-ae8a-0e4768d327d1",
+        "galleryName": "McGlynn-Labadie",
+        "location": "72621 Northridge Center",
+        "contactDetails": "rgrishakin0@imageshack.us",
+        "hostedExhibitions": [
+            "f5ef294f-20d8-4416-a4d6-25430f2c848b",
+            "5c23b330-f17c-415e-ab0e-5e718b7a4803"
+        ]
+    },
+    {
+        "_id": "cbc3f542-26bd-4eaf-a448-521226ef3798",
+        "galleryName": "Williamson and Sons",
+        "location": "98002 Eagle Crest Parkway",
+        "contactDetails": "scampana1@telegraph.co.uk",
+        "hostedExhibitions": [
+            "d2316025-edc2-4ed6-ba7a-cb9e084f5209",
+            "90aec26e-b23f-404c-ab70-618094d673d0",
+            "496fad34-cee8-444f-b838-f23e0b8b46bb",
+            "bb8d05c1-ad3a-45de-82fa-01f5bf7d753e",
+            "0de2b9e1-6cf4-4dd1-9fb6-4161c4600f8a",
+            "c536d3c1-962a-4e54-b3f6-a5abfa64efc7"
+        ]
+    },
+    {
+        "_id": "3b376a14-1cf6-4e78-927a-a5268bc5074a",
+        "galleryName": "Labadie-Swift",
+        "location": "69989 Golf Course Way",
+        "contactDetails": "emotto2@opera.com",
+        "hostedExhibitions": [
+            "b8621c80-a62f-4627-8788-b384530ea36a",
+            "48cc1624-3695-4476-bbbf-823e6ad6f1d2"
+        ]
+    },
+    {
+        "_id": "7dbba80a-bd3b-4b1a-b765-6cc0ffde5f40",
+        "galleryName": "Crist, Block and Gerhold",
+        "location": "308 Oneill Drive",
+        "contactDetails": "thouselee3@noaa.gov",
+        "hostedExhibitions": [
+            "75ded1b4-0756-4edb-abaa-e06540377892",
+            "5b0c5be1-af78-433c-b981-4e189cdf4d84"
+        ]
+    },
+    {
+        "_id": "d5f27886-7ec2-41c4-9a0c-29b97fa72eb7",
+        "galleryName": "Parker and Sons",
+        "location": "049 Tennessee Avenue",
+        "contactDetails": "dojeda4@auda.org.au",
+        "hostedExhibitions": [
+            "db95a89d-932a-4048-ae0f-a9385476e76c"
+        ]
+    },
+    {
+        "_id": "f2eb6048-a3a4-458b-b7c4-6e6ca7b9a46c",
+        "galleryName": "McGlynn, Nader and Rohan",
+        "location": "23 Twin Pines Park",
+        "contactDetails": "wseccombe5@toplist.cz",
+        "hostedExhibitions": [
+            "6b7f9773-6e7e-4c62-b5f1-3c65be5a566e",
+            "c270bdd1-1c36-4b0d-89ae-bad4b7c2756b"
+        ]
+    },
+    {
+        "_id": "9a231a18-af6f-427e-bcf3-0694044208a8",
+        "galleryName": "Fadel Group",
+        "location": "20 Springview Drive",
+        "contactDetails": "scabrara6@creativecommons.org",
+        "hostedExhibitions": [
+            "8904de95-9cd2-45df-9ae4-ec85b10a29b2",
+            "92176e2b-3158-4e2e-ac17-096ff317d828"
+        ]
+    },
+    {
+        "_id": "1b50b7f5-5d92-4ab1-a86d-c5ccad7f66b8",
+        "galleryName": "Flatley Inc",
+        "location": "63729 4th Hill",
+        "contactDetails": "pbottini7@imdb.com",
+        "hostedExhibitions": [
+            "f581be7f-2899-4ae8-95b3-b24a68a3e8f3",
+            "a98dcc45-c0e4-4c6d-8abd-a5e3baa1a70a"
+        ]
+    },
+    {
+        "_id": "807e5e8f-581a-4bb5-9499-93775813ad1b",
+        "galleryName": "Harber Inc",
+        "location": "87 Alpine Road",
+        "contactDetails": "wmelburg8@techcrunch.com",
+        "hostedExhibitions": [
+            "b0d0761f-536d-45e0-9379-f1f0e28a0379"
+        ]
+    },
+    {
+        "_id": "bfaeb23c-f64f-4b97-915e-1eabc49dc9c6",
+        "galleryName": "Kris Inc",
+        "location": "0 Jackson Point",
+        "contactDetails": "hlockett9@house.gov",
+        "hostedExhibitions": [
+            "fa3c0a9c-2242-4474-8d36-08c4c436ffc1"
+        ]
+    },
+    {
+        "_id": "86b18de9-6c7b-4bc4-a6b9-ce12272783b4",
+        "galleryName": "Wilderman LLC",
+        "location": "5 Westridge Place",
+        "contactDetails": "fbyroma@amazon.com",
+        "hostedExhibitions": [
+            "c9346c76-2f7b-416c-9f8a-176638883819",
+            "e83430b9-41ba-4b61-8b70-77a2281dabd5",
+            "b25d07af-9f85-4dbe-8c5e-6291e14242a2",
+            "29d63c05-3beb-4b55-a65e-c6a09e92c784"
+        ]
+    },
+    {
+        "_id": "6dd9377e-6f06-45b2-9bd9-31cf2ef260b1",
+        "galleryName": "Gleason-Leuschke",
+        "location": "2978 3rd Court",
+        "contactDetails": "mhightownb@liveinternet.ru",
+        "hostedExhibitions": [
+            "92cb4165-e378-481f-ac1d-bbe76c672a71",
+            "d18c3f8b-6d17-4d12-81d7-980e09169c75",
+            "bfe4c159-198d-46bf-8183-220cc822658d"
+        ]
+    },
+    {
+        "_id": "5af1bb57-0353-4a41-ae6c-7e05ddcb5e00",
+        "galleryName": "Jacobi and Sons",
+        "location": "7 Nelson Place",
+        "contactDetails": "ebreitlerc@blinklist.com",
+        "hostedExhibitions": [
+            "bd9ed274-2769-4af8-8aca-dd30dc83c4de",
+            "8644a0a3-e259-4612-9143-fbf8247a0b2d",
+            "ec300af8-196e-46fe-a9cd-441fbf31359c",
+            "998b2c7f-197e-49f2-92d8-1ea8bd738734",
+            "901673b7-539e-461f-a496-c591f4aaf91d",
+            "59fa3eff-78dc-4879-806b-fd81a65898f1"
+        ]
+    },
+    {
+        "_id": "5dc1fca6-2819-4031-b59d-2b9c03a426df",
+        "galleryName": "Marquardt-Wisoky",
+        "location": "0 Schmedeman Trail",
+        "contactDetails": "tlonderd@wired.com",
+        "hostedExhibitions": []
+    },
+    {
+        "_id": "3239c132-e5a1-494c-bf0f-8755a7972cc6",
+        "galleryName": "Dickens, Hayes and Nikolaus",
+        "location": "63760 Texas Lane",
+        "contactDetails": "vcamouse@china.com.cn",
+        "hostedExhibitions": [
+            "4d6cb8ac-1b30-4704-a334-08e5b21badfd",
+            "0d0e3116-3f23-4fcd-bbd1-ea7819485962"
+        ]
+    },
+    {
+        "_id": "98981597-75c4-45e2-9f9b-5ba64450927e",
+        "galleryName": "Vandervort-Huel",
+        "location": "1618 John Wall Lane",
+        "contactDetails": "rskusef@gravatar.com",
+        "hostedExhibitions": [
+            "deb76065-d79f-4dcb-89be-f50d35543421",
+            "39f497ba-361f-402a-a829-472d9ed6c039"
+        ]
+    },
+    {
+        "_id": "889f3b53-9115-4bcf-a61c-df22cb90a07b",
+        "galleryName": "Mann, Bartell and Wilderman",
+        "location": "15215 Cordelia Lane",
+        "contactDetails": "bdysertg@earthlink.net",
+        "hostedExhibitions": [
+            "c08dd8ac-5342-4f40-88d3-1db71956147b"
+        ]
+    },
+    {
+        "_id": "41ad5f23-f57f-4e8a-9240-f3d0d1449967",
+        "galleryName": "McLaughlin, Rosenbaum and Quitzon",
+        "location": "7630 Westend Crossing",
+        "contactDetails": "gsunnerh@ocn.ne.jp",
+        "hostedExhibitions": [
+            "0957e87f-039d-4a45-a942-ecab2459aa1b",
+            "057af2b0-f5f6-49d0-a751-dd36237e33ce",
+            "6a0c57c2-3597-46c3-9258-5c2a062d38a7",
+            "c00ae594-f32e-4c3f-a441-d526eeefdd08",
+            "51d7ba96-6875-4bd2-8ee1-eb62214b5dfd",
+            "f965d8a4-e0c1-4eed-bd3b-bc603920f8ac"
+        ]
+    },
+    {
+        "_id": "413c0834-8b79-42ed-8bd2-7102bda80dbf",
+        "galleryName": "McCullough-White",
+        "location": "1 Sachtjen Road",
+        "contactDetails": "kkilohi@delicious.com",
+        "hostedExhibitions": [
+            "91f86bfb-e719-46ff-ab07-d86d0d5a6716",
+            "e58f450b-c156-40c6-8f64-555847cd18a9",
+            "aa74a476-ce3a-456a-b7c1-180d2f318dad",
+            "84d2abc8-d542-4901-85f4-0ff24a1f5a13",
+            "9a7a1e06-9e95-4e6a-a794-9fe2d98dedaf"
+        ]
+    },
+    {
+        "_id": "02a0e6b6-236b-4af6-bf52-c1addac0a17b",
+        "galleryName": "McLaughlin and Sons",
+        "location": "1141 Warrior Court",
+        "contactDetails": "ndooherj@cocolog-nifty.com",
+        "hostedExhibitions": []
+    }
+]

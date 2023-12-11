@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>All Artworks</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+
+<body>
+    <div class="container">
+        <h1>All Artworks</h1>
+        <% if (artworks.length===0) { %>
+            <p>No artworks found.</p>
+            <% } else { %>
+                <% artworks.forEach(function(artwork){ %>
+                    <div class="artwork-card">
+                        <h3>
+                            <%= artwork.title %>
+                        </h3>
+                        <p>Price: <%= artwork.price %>
+                        </p>
+                        <p>ID: <%= artwork._id %>
+                        </p>
+                        <p>Artist Name: <%= artwork.artist ? artwork.artist.name : 'N/A' %>
+                        </p>
+                        <p>Medium: <%= artwork.medium %>
+                        </p>
+                        <p>Dimensions: <%= artwork.dimension %>
+                        </p>
+                        <p>Creation Date: <%= artwork.creationDate %>
+                        </p>
+                        <p>Availability Status: <%= artwork.availabilityStatus %>
+                        </p>
+                        <!-- Display additional information -->
+                        <p>Collector Name: <%= artwork.collector ? artwork.collector.collectorName : 'N/A' %>
+                        </p>
+                        <p>Exhibitions:</p>
+                        <ul>
+                            <% if(artwork.exhibitions) { %>
+                                <% artwork.exhibitions.forEach(function(exhibition) { %>
+                                    <li>
+                                        <%= exhibition.exhibitionName %>
+                                    </li>
+                                    <% }); %>
+                                        <% } %>
+                        </ul>
+                        <a href="/artwork/<%= artwork._id %>/edit" class="btn">Edit</a>
+                        <button class="btn" onclick="confirmDelete('<%= artwork._id %>')">Delete</button>
+                    </div>
+                    <% }); %>
+                        <% } %>
+    </div>
+
+    <footer>
+        <div> Made by Yuting</div>
+    </footer>
+
+    <script>
+        function confirmDelete(artworkID) {
+            const confirmation = confirm('Are you sure you want to delete this artwork?');
+            if (confirmation) {
+                // make a DELETE request
+                fetch(`/artwork/${artworkID}`, { method: 'DELETE' })
+                    .then(() => { window.location.reload(); });
+            }
+        }
+    </script>
+</body>
+
+</html>

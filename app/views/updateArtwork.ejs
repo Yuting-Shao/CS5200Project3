@@ -1,8 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-    <meta charset="UTF-8">
     <title>Update Artwork</title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
 </head>
@@ -10,24 +9,59 @@
 <body>
     <div class="container">
         <h1>Update Artwork</h1>
-        <form action="/artwork/<%= artwork.id %>" method="post">
-            <input type="hidden" name="id" value="<%= artwork.id %>">
+        <form action="/artwork/<%= artwork._id %>?_method=PUT" method="POST">
+            <!-- ID (Read-only) -->
+            <div>
+                <label>ID: <input type="text" name="_id" value="<%= artwork._id %>" readonly /></label>
+            </div>
 
-            <label for="title">Title</label>
-            <input type="text" id="title" name="title" value="<%= artwork.title %>" required>
+            <!-- Title -->
+            <div>
+                <label>Title: <input type="text" name="title" value="<%= artwork.title %>" /></label>
+            </div>
 
-            <label for="medium">Medium</label>
-            <input type="text" id="medium" name="medium" value="<%= artwork.medium %>" required>
+            <!-- Medium -->
+            <div>
+                <label>Medium: <input type="text" name="medium" value="<%= artwork.medium %>" /></label>
+            </div>
 
-            <label for="dimension">Dimension</label>
-            <input type="text" id="dimension" name="dimension" value="<%= artwork.dimension %>" required>
+            <!-- Dimensions -->
+            <div>
+                <label>Dimensions: <input type="text" name="dimension" value="<%= artwork.dimension %>" /></label>
+            </div>
 
-            <label for="price">Price</label>
-            <input type="number" id="price" name="price" value="<%= artwork.price %>" required>
+            <!-- Creation Date -->
+            <div>
+                <label>Creation Date: <input type="text" name="creationDate"
+                        value="<%= artwork.creationDate %>" /></label>
+            </div>
 
-            <button type="submit">Update</button>
+            <!-- Price -->
+            <div>
+                <label>Price: <input type="number" name="price" value="<%= artwork.price %>" /></label>
+            </div>
+
+            <!-- Availability Status -->
+            <div>
+                <label>Availability Status: <input type="text" name="availabilityStatus"
+                        value="<%= artwork.availabilityStatus %>" /></label>
+            </div>
+
+            <!-- Artist ID (Read-only if present) -->
+            <div>
+                <label>Artist ID: <input type="text" name="artistId"
+                        value="<%= artwork.artist ? artwork.artist._id : '' %>" readonly /></label>
+            </div>
+
+            <!-- Submit Button -->
+            <div>
+                <input type="submit" value="Update" />
+            </div>
         </form>
     </div>
+    <footer>
+        <div> Made by Yuting</div>
+    </footer>
 </body>
 
 </html>

@@ -1,0 +1,885 @@
+[
+    {
+        "_id": "9baa1c18-42d8-49dc-969f-78f3fa0d1088",
+        "collectorName": "Berget Collen",
+        "preferences": "photography",
+        "collectedArtworks": [
+            "eafa4817-8d13-47e4-8539-2035ada99a65",
+            "9dd55c4e-a86e-4af7-ab8d-30ce7ca64502"
+        ]
+    },
+    {
+        "_id": "f84741d3-52d8-45bf-abe4-35e5219c7e1e",
+        "collectorName": "Hobart Blazewski",
+        "preferences": "sculptures",
+        "collectedArtworks": [
+            "f8b14ab7-ae24-4126-88c3-d48c85b6a48c"
+        ]
+    },
+    {
+        "_id": "590dbb79-51f0-4ca6-a092-e64f7c236b4d",
+        "collectorName": "Noll Harcarse",
+        "preferences": "modern art",
+        "collectedArtworks": [
+            "6f817fbf-9edc-450b-9e0a-d91be7dbf824"
+        ]
+    },
+    {
+        "_id": "045587f7-7e5d-4f14-8ca1-d6ce2760e163",
+        "collectorName": "Erda Dalgardno",
+        "preferences": "modern art",
+        "collectedArtworks": [
+            "a6edcfaa-4865-444c-8b80-da41f4affb60",
+            "2d5a61ad-bf58-4c7d-a9e9-def37bc4dc8c"
+        ]
+    },
+    {
+        "_id": "33ee949a-fa98-4149-aecf-0925b344735d",
+        "collectorName": "Lilah Benoiton",
+        "preferences": "street art",
+        "collectedArtworks": [
+            "84465318-0ca9-4951-bc0a-3f0c70d42980",
+            "7d4c542a-0822-4d50-bf44-aa848c9054e2"
+        ]
+    },
+    {
+        "_id": "2d083078-d4a1-4b4e-b0fd-d5203ab510cf",
+        "collectorName": "Colleen Cotesford",
+        "preferences": "abstract art",
+        "collectedArtworks": [
+            "88da4586-5080-4f27-8616-ec762e16b6ca",
+            "8c826882-cbf6-431d-964f-e9dc6b01c4af"
+        ]
+    },
+    {
+        "_id": "1d399d13-4f04-4a10-99f5-5922786b9ee2",
+        "collectorName": "Sonja Rosewarne",
+        "preferences": "modern art",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "06a280fe-6317-4164-ac79-43f8aa077c4c",
+        "collectorName": "Durand Dell Casa",
+        "preferences": "photography",
+        "collectedArtworks": [
+            "91cea3bf-2eaa-4440-bd5d-c09ba7e93ecb",
+            "d920ba15-bb68-4307-a2da-12fcfd5dcd07",
+            "aabab9b9-d113-49ff-a003-440f8f322642",
+            "3a1dbc31-9aff-4331-bd91-57199c6c0e47"
+        ]
+    },
+    {
+        "_id": "0a3c1a96-f41d-4bb4-8df6-74971a17f526",
+        "collectorName": "Walsh Cawdery",
+        "preferences": "photography",
+        "collectedArtworks": [
+            "b2d2a539-314f-46c5-8b45-7af9c64a62c5",
+            "d265f5d9-2652-4853-b3ea-63e770039a26",
+            "0a239b2d-a796-48bc-b638-d892566fbfc2"
+        ]
+    },
+    {
+        "_id": "554a244d-a322-436c-8e75-90276ca2102a",
+        "collectorName": "Jenine Beton",
+        "preferences": "minimalism",
+        "collectedArtworks": [
+            "f1f67d0f-1631-49b8-8864-53aba4c58816"
+        ]
+    },
+    {
+        "_id": "769df6ba-f7eb-408a-8b5f-ff9c21ddc605",
+        "collectorName": "Somerset Potteril",
+        "preferences": "sculptures",
+        "collectedArtworks": [
+            "3bbf0fcc-22df-44da-9603-dd620188f0f3",
+            "1de16bd4-a81b-46c6-a019-6e33dfefefb7"
+        ]
+    },
+    {
+        "_id": "a5697add-0de8-48df-b750-1bd1bba6d68f",
+        "collectorName": "Justine Goulthorp",
+        "preferences": "minimalism",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "0516d7ad-869c-456f-bcfc-8439eceae2b2",
+        "collectorName": "Xever Horlock",
+        "preferences": "sculptures",
+        "collectedArtworks": [
+            "75df405b-5b8d-4d03-9e14-fba4f42fe0ac"
+        ]
+    },
+    {
+        "_id": "926c134e-a31f-4730-960c-98b8b8b5ff30",
+        "collectorName": "Zebadiah Nelmes",
+        "preferences": "contemporary art",
+        "collectedArtworks": [
+            "886b9fb1-a518-4413-bbca-1e789333ee00",
+            "2611297c-b9d0-476d-a80b-8643f9add75e"
+        ]
+    },
+    {
+        "_id": "e9ea0565-f286-4468-8884-3101a74cb11b",
+        "collectorName": "Amalie Albro",
+        "preferences": "sculptures",
+        "collectedArtworks": [
+            "64a019b6-62c1-404b-a56f-a097f9630568"
+        ]
+    },
+    {
+        "_id": "ce2c2b9d-a623-4727-9d73-a611d7c53cfe",
+        "collectorName": "Whitney Pumphrey",
+        "preferences": "modern art",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "5b71233e-aab2-42a6-a897-4155880feaba",
+        "collectorName": "Doy Limeburn",
+        "preferences": "modern art",
+        "collectedArtworks": [
+            "da9c1da7-e077-4d4c-ab44-d505b16b1383"
+        ]
+    },
+    {
+        "_id": "a9c94f49-9cb0-4577-9c40-6c6532c29a4b",
+        "collectorName": "Tirrell Colum",
+        "preferences": "pop art",
+        "collectedArtworks": [
+            "93627221-56b4-4300-a085-b82f0c323e24",
+            "9f2f0624-d968-4db9-91c3-a37a97b3b261",
+            "0e64d611-0e9b-4868-ac5f-46e95aa2872d",
+            "57ecc777-e13d-404b-8e51-8b5a338de24c"
+        ]
+    },
+    {
+        "_id": "0a062cbc-c20e-4cc4-bf99-85411370b95c",
+        "collectorName": "Frederich Povey",
+        "preferences": "abstract art",
+        "collectedArtworks": [
+            "4fe06f6d-ea22-4bfb-8521-24720af5b7f4",
+            "335cb38f-5984-4093-ac69-4dceecc8f3a9"
+        ]
+    },
+    {
+        "_id": "bdec3736-2a84-4ddb-b4ba-b78fd5692af9",
+        "collectorName": "Cordy Fairpool",
+        "preferences": "modern art",
+        "collectedArtworks": [
+            "46e5418f-575a-4b10-8c72-c459ebfa7769",
+            "3e788f61-a4fd-419c-8168-a83e5a28e098",
+            "0750a8c2-ac4a-4848-87a7-93a39fd791cd"
+        ]
+    },
+    {
+        "_id": "3e090fe5-1bcd-4216-8b14-b2f168553c9f",
+        "collectorName": "Gino Bauchop",
+        "preferences": "modern art",
+        "collectedArtworks": [
+            "1fde95cb-0a1d-4da8-946d-0fbfc0473b11"
+        ]
+    },
+    {
+        "_id": "b72b1b71-ec65-4c26-960d-b79fee1d362c",
+        "collectorName": "Sigismond Doak",
+        "preferences": "impressionism",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "d00c2df7-7f17-4f3c-b70d-8d9b84d955e6",
+        "collectorName": "Inglis Simenon",
+        "preferences": "photography",
+        "collectedArtworks": [
+            "432bf703-d615-4504-bc35-9e818184050c",
+            "ba049cd9-3dc5-4793-96ab-73c7fe30951a",
+            "91c7258a-d8e3-4f01-92e2-ad018918b260"
+        ]
+    },
+    {
+        "_id": "c71df3ed-e332-4159-a8b2-95ee1267a195",
+        "collectorName": "Naoma Sturrock",
+        "preferences": "photography",
+        "collectedArtworks": [
+            "1a415dc0-7080-45ba-96ca-4b91ff5bbe8f",
+            "bcb0f9ae-a9d5-48ac-b55b-371e939d5278",
+            "4134f013-69f8-42e5-be9b-24ad937151a2",
+            "bd541cc3-9eab-4379-aece-91b5268b12fd"
+        ]
+    },
+    {
+        "_id": "b4c35644-e549-431d-afc1-85341a2e2175",
+        "collectorName": "Elane Roberts",
+        "preferences": "pop art",
+        "collectedArtworks": [
+            "d4ec9dbe-41a3-4315-9501-3cf3012a1705",
+            "a97a8e0d-0f67-441c-9640-0a1d6477f209",
+            "5a3e9752-f391-4f81-bb49-22e2203d21e7",
+            "b270b15a-0a37-4bbc-9d99-c157de9d463d",
+            "3c6162d3-742f-466b-87ec-d5fbb0c31bd8"
+        ]
+    },
+    {
+        "_id": "9665a1e3-669c-4480-a90a-eaf5afe91ba1",
+        "collectorName": "Ynes Scowcroft",
+        "preferences": "modern art",
+        "collectedArtworks": [
+            "bc256a31-f0c8-4360-ae12-97c9577f2a33"
+        ]
+    },
+    {
+        "_id": "bf990a66-23dc-4535-b289-4a3fcc43f056",
+        "collectorName": "Douglass Warin",
+        "preferences": "abstract art",
+        "collectedArtworks": [
+            "e2105c19-0c40-4de3-8a0e-fa4ab98863e8"
+        ]
+    },
+    {
+        "_id": "4e444753-348a-4939-b03c-d56de25ddbc7",
+        "collectorName": "Ellie Elloway",
+        "preferences": "minimalism",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "1f4d405c-e6fa-4623-bbd9-50bbd18096ab",
+        "collectorName": "Samaria Helliwell",
+        "preferences": "landscape paintings",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "9a5f8d80-516a-4e63-b304-bc41d69f5eda",
+        "collectorName": "Ruddie Cahalan",
+        "preferences": "landscape paintings",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "3f9815a3-ceeb-46f3-9534-1fefad2e4d2c",
+        "collectorName": "Ransom Talbot",
+        "preferences": "impressionism",
+        "collectedArtworks": [
+            "80289983-5f18-4374-a523-e4c7668cd511",
+            "b6afbfe4-4624-429b-b762-50270cea3be2"
+        ]
+    },
+    {
+        "_id": "4c8c5289-f377-4ff4-a91e-266eee25e2da",
+        "collectorName": "Karolina Ofer",
+        "preferences": "contemporary art",
+        "collectedArtworks": [
+            "2827d11c-dbbf-4908-a554-531937e80752",
+            "202d159c-48d7-4f18-ac49-e97625ce284b"
+        ]
+    },
+    {
+        "_id": "01460779-2324-430f-b8b8-40914cd3e2a0",
+        "collectorName": "Farlee Larcier",
+        "preferences": "landscape paintings",
+        "collectedArtworks": [
+            "aedfc011-ba4c-4dba-9c4a-6f06ea755d5e",
+            "506e5144-0cfc-467c-9b1c-cb701289c0fa"
+        ]
+    },
+    {
+        "_id": "fb32ee01-73f4-4c2b-9e78-db220fb66fce",
+        "collectorName": "Osgood Spadari",
+        "preferences": "landscape paintings",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "25a9137c-8f87-4804-8464-74eb9d65b8e4",
+        "collectorName": "Robinet Gomby",
+        "preferences": "street art",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "e9bce091-8447-4d3b-8b81-04f330a6f3c4",
+        "collectorName": "Wilden Tumility",
+        "preferences": "contemporary art",
+        "collectedArtworks": [
+            "cd855cef-3c81-4e35-b4f7-05c52438523f",
+            "646acf5f-bb4e-44b8-a621-7cc2dfb9f40c",
+            "1b4260d9-f464-4446-bcca-8c007659f15f",
+            "53b9c3e5-bfbc-49bc-9eb2-24e11dd76ccb"
+        ]
+    },
+    {
+        "_id": "554bc64a-718f-4d20-8855-fd54f236c620",
+        "collectorName": "Ernie Durram",
+        "preferences": "pop art",
+        "collectedArtworks": [
+            "524887e4-d308-4f78-8f0f-7ba1c3d077b8",
+            "114f3851-f4c4-42b0-a6c2-9f60a9b3e1dc",
+            "7e24f225-5696-4fb8-ad51-9c874e00a3bc"
+        ]
+    },
+    {
+        "_id": "c38eec0b-dfe2-44ce-9d5c-4477ce0ec922",
+        "collectorName": "Alford Arnason",
+        "preferences": "abstract art",
+        "collectedArtworks": [
+            "736cb8f3-db29-4fa9-9a7f-736162aab88f"
+        ]
+    },
+    {
+        "_id": "7f5da191-bccf-4ec2-946f-7c3c05ddd75f",
+        "collectorName": "Joeann Bruckental",
+        "preferences": "pop art",
+        "collectedArtworks": [
+            "32a580d3-443b-4232-bf5f-e3e90eefb605"
+        ]
+    },
+    {
+        "_id": "27d8b160-8453-4708-84f9-1677e26239ec",
+        "collectorName": "Kip Paddemore",
+        "preferences": "abstract art",
+        "collectedArtworks": [
+            "82add192-21d2-4cb2-aa66-302b98ae77d5",
+            "6bfa210b-3146-40c3-b65b-6528eba77ced",
+            "9bced2af-9ec3-4831-b94a-6c3fdf1be216"
+        ]
+    },
+    {
+        "_id": "d1186797-8189-4434-b8ff-84741c17d3e4",
+        "collectorName": "Riane Litterick",
+        "preferences": "sculptures",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "78c99386-785a-4cf7-8d74-65b8b4a2d960",
+        "collectorName": "Gussie Brader",
+        "preferences": "sculptures",
+        "collectedArtworks": [
+            "0ae150e9-c86f-4642-b078-5900defab5d6"
+        ]
+    },
+    {
+        "_id": "c41425b5-6c18-4bf7-9e8b-62581000cc16",
+        "collectorName": "Taddeo Binney",
+        "preferences": "impressionism",
+        "collectedArtworks": [
+            "a318e210-e7b2-44b4-99b3-2a69544b4047",
+            "0f668296-8fb6-412d-9c02-3476cab4854d",
+            "a742a333-cf10-4a46-9d7e-18a77bfbfea2",
+            "f29af360-2a92-475d-895f-9b349c0bd3ed"
+        ]
+    },
+    {
+        "_id": "aa9442e1-fd3b-4785-914c-1ca40ac1ab8f",
+        "collectorName": "Lanita Dargue",
+        "preferences": "impressionism",
+        "collectedArtworks": [
+            "e10ce166-757d-4597-82ae-61ae5558d0db"
+        ]
+    },
+    {
+        "_id": "dd424428-8cf6-4055-a9fb-4149945311f9",
+        "collectorName": "Simone Beedie",
+        "preferences": "contemporary art",
+        "collectedArtworks": [
+            "0795858c-cf71-4c16-b504-258a314e72f1",
+            "543f6830-1f19-44c0-b708-702a6f1bd77d"
+        ]
+    },
+    {
+        "_id": "820826cb-1173-4ad7-a0f0-ee671e668784",
+        "collectorName": "Perceval Mort",
+        "preferences": "photography",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "805ae175-edd2-47ae-a614-30ea1dd0addf",
+        "collectorName": "Stefan Chattington",
+        "preferences": "modern art",
+        "collectedArtworks": [
+            "521bdb5f-fc59-47da-831c-61bf0425d8d4",
+            "289b056a-8815-4e31-bb63-5c8dfade18cc",
+            "1a7271b8-6ad7-43d5-ac37-3fbdceef34c5"
+        ]
+    },
+    {
+        "_id": "22b01e42-723f-4bfd-bf4a-abcce02c0d63",
+        "collectorName": "Kylila Bowller",
+        "preferences": "photography",
+        "collectedArtworks": [
+            "8548be7d-3bb0-4953-ba7e-470290cbb5a4",
+            "f53d283a-6aac-4c5f-9027-df0eced773a1",
+            "96fd9494-10fb-4895-af75-3b43d19a72da",
+            "1d812e11-66a8-475e-be78-02d64ed241e3"
+        ]
+    },
+    {
+        "_id": "f67dae65-5680-473d-abc2-4f70647e72a1",
+        "collectorName": "Marisa Arkley",
+        "preferences": "impressionism",
+        "collectedArtworks": [
+            "4df09766-72be-4091-a84e-d863885b3b2b",
+            "96404c48-910e-46c0-bca9-f8504a87c5c1",
+            "8fadec82-7332-4bb8-affc-34040854814c"
+        ]
+    },
+    {
+        "_id": "ea834f41-6add-453d-9329-1f83804f1b19",
+        "collectorName": "Minny Gaspard",
+        "preferences": "street art",
+        "collectedArtworks": [
+            "08407de9-2c3a-48c2-992f-498e0709b619",
+            "f98c4c36-cc9f-4989-b0dc-4d071f59c3f9"
+        ]
+    },
+    {
+        "_id": "edb622f1-4aa3-472f-beca-0280092dbfb8",
+        "collectorName": "Leelah Yates",
+        "preferences": "photography",
+        "collectedArtworks": [
+            "b3f28588-5e83-4dcb-ba9e-997e359d9a7e",
+            "3419fc1d-d03d-4b26-8aee-908e535f1f63",
+            "92dc9c27-0b9c-4752-9168-02fbb421dcde",
+            "a908b2a3-12a4-44fc-955f-81b3c7c4cd02"
+        ]
+    },
+    {
+        "_id": "98925286-08f7-4e56-bf7f-1b11fad5b1fb",
+        "collectorName": "Rollo Jurs",
+        "preferences": "landscape paintings",
+        "collectedArtworks": [
+            "6aaa8ecc-2360-41b5-b929-788f30539a4f",
+            "40486368-991c-4124-ba14-b0d21f2e9985"
+        ]
+    },
+    {
+        "_id": "26cfe7f3-3304-4da1-ac01-a7cd5e154407",
+        "collectorName": "Vally Legier",
+        "preferences": "modern art",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "eef0b472-72b9-4eac-af0b-bd1be60742b7",
+        "collectorName": "Karia Nicol",
+        "preferences": "landscape paintings",
+        "collectedArtworks": [
+            "583787db-a51c-40a7-8a3b-09615d7f5d7f",
+            "43be88d0-fece-4bd8-99ea-96929379c30a"
+        ]
+    },
+    {
+        "_id": "2cec740c-c966-431b-914d-5b892932ffb2",
+        "collectorName": "Cassie Briton",
+        "preferences": "street art",
+        "collectedArtworks": [
+            "8d4dcecb-4102-4c5e-9c71-d7bb83b17801",
+            "1b11c0bc-93f6-49a8-9f9d-1e52e1dffc79"
+        ]
+    },
+    {
+        "_id": "67083f60-2c91-41ef-9931-4a7dda56d959",
+        "collectorName": "Gerry Ternault",
+        "preferences": "photography",
+        "collectedArtworks": [
+            "e42daecc-d777-4a3f-95c2-d7562344237e",
+            "552c62ad-56b1-4301-b735-ba8f2ada4ad5"
+        ]
+    },
+    {
+        "_id": "2afffa49-fa55-4276-b87c-bfba2e82c3f9",
+        "collectorName": "Rozanna Pawle",
+        "preferences": "contemporary art",
+        "collectedArtworks": [
+            "5c92d4b0-ffd6-495a-b775-a7a383ed2308",
+            "27cf7027-0b27-4390-a4f5-a521b9c1901f",
+            "2dc8f06c-f236-41c7-bec6-8930f753c05f",
+            "f3ff799a-b9a8-4a39-89a5-cc865d25638d",
+            "4e865e0b-c7d4-4111-a8ca-558897afbb79",
+            "a1ae33d3-7451-436d-8d12-3ea090fe47a1"
+        ]
+    },
+    {
+        "_id": "ae61eaca-6931-45d1-9deb-3d0f7f8a65df",
+        "collectorName": "Nancy Denison",
+        "preferences": "photography",
+        "collectedArtworks": [
+            "be2e226c-9e75-4d72-91c3-583a62b54760",
+            "e349f6e0-6d4e-4439-a3e6-7f4a33c29dec",
+            "389e0325-124e-404a-9540-62b08fc8f687"
+        ]
+    },
+    {
+        "_id": "dcc29ea5-3e7c-4cac-a200-00577c16e7e8",
+        "collectorName": "Donnell Stove",
+        "preferences": "impressionism",
+        "collectedArtworks": [
+            "164dad57-43ca-4877-9d91-340121bec32c",
+            "9b71fea2-c7a9-4709-9201-0b0e1b3ed3d0"
+        ]
+    },
+    {
+        "_id": "5217014f-e552-43d6-98f6-df820ef6ae88",
+        "collectorName": "Lyon Nilles",
+        "preferences": "impressionism",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "8217b90b-0efc-4241-a168-80d089109c46",
+        "collectorName": "Ezra Shower",
+        "preferences": "impressionism",
+        "collectedArtworks": [
+            "a83eec3b-f7a3-4f04-9c1d-961085300910",
+            "89b88116-7233-4e9f-87f4-cd86469dde37"
+        ]
+    },
+    {
+        "_id": "1e7aede0-e075-4ef8-ae1f-affde897efa3",
+        "collectorName": "Carlo Caudle",
+        "preferences": "modern art",
+        "collectedArtworks": [
+            "c5302120-cf60-4edf-b3a6-b858f1c0d42f"
+        ]
+    },
+    {
+        "_id": "a305319c-8e5b-4e58-9518-802e4fa02ec9",
+        "collectorName": "Janean Hodge",
+        "preferences": "abstract art",
+        "collectedArtworks": [
+            "295d05c2-4c1b-4333-9c2c-759223d347a4"
+        ]
+    },
+    {
+        "_id": "563fec51-b645-40db-816a-12f3e272b631",
+        "collectorName": "Angelique Regglar",
+        "preferences": "modern art",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "74ab4ea0-c79e-4fd0-aaa2-9c4536ae080d",
+        "collectorName": "Constantine Bosden",
+        "preferences": "sculptures",
+        "collectedArtworks": [
+            "e8d57216-fea1-44dd-8eda-334c5ab8d562",
+            "867290eb-6f53-4725-897e-4e1b9426f98d",
+            "b67a2104-9f6c-4792-988b-16c64f54cea3"
+        ]
+    },
+    {
+        "_id": "c196672f-5f6a-4265-9751-2434636bea13",
+        "collectorName": "Bordie Kivlehan",
+        "preferences": "abstract art",
+        "collectedArtworks": [
+            "009df90c-52a8-43b0-b19e-26b831214286",
+            "8eb0e54f-48de-4e0f-843a-9eb2a90fdfad",
+            "e2524f98-2d9d-4609-93df-2060970a6638"
+        ]
+    },
+    {
+        "_id": "c1e62ee8-b2b9-4525-9442-959378f6f96c",
+        "collectorName": "Adlai Meehan",
+        "preferences": "pop art",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "dd1beea7-91b7-4f1a-bfe1-5e5a7209e32f",
+        "collectorName": "Seward Lackney",
+        "preferences": "abstract art",
+        "collectedArtworks": [
+            "20d9dcf0-8ef6-42d9-9761-49ec3dd5169b",
+            "891f8114-d72f-4af4-ad08-1f2d0edd371f"
+        ]
+    },
+    {
+        "_id": "d4e03151-e5ef-4364-ae03-a34e82bfc955",
+        "collectorName": "Appolonia Hayer",
+        "preferences": "modern art",
+        "collectedArtworks": [
+            "c34296dd-882d-4ca0-a613-dd80a93e0f3a"
+        ]
+    },
+    {
+        "_id": "81d0291e-0024-4dc9-961a-c533ef769e58",
+        "collectorName": "Susy Blandford",
+        "preferences": "impressionism",
+        "collectedArtworks": [
+            "33883f3c-ca69-40b5-b449-2b4eaa97b86f",
+            "2a8432ef-984e-46e5-9d15-bfa3ee249871",
+            "cf777ed2-13b5-41fa-b15e-9526c492cf71"
+        ]
+    },
+    {
+        "_id": "b158f240-073b-4e7e-bb32-a3e878da17af",
+        "collectorName": "Hatty Minster",
+        "preferences": "modern art",
+        "collectedArtworks": [
+            "67d64c8d-bdc4-4bdc-b567-5a9494f79871",
+            "7adb654f-6002-4efc-9ec9-5307f7a91618",
+            "1936b50c-b8aa-43d6-a916-cb4a07c54046"
+        ]
+    },
+    {
+        "_id": "6012b8bb-3ec1-4554-8233-63387d1d8731",
+        "collectorName": "Dede Bondesen",
+        "preferences": "contemporary art",
+        "collectedArtworks": [
+            "1e0d504c-67c4-4486-b12e-67943c7dca86",
+            "36133ec4-76c2-413d-85d3-8f3770154c82",
+            "daff8594-f06c-4da9-ac83-990b802c3c7a"
+        ]
+    },
+    {
+        "_id": "c8ac6c8f-40e6-4858-a784-c64b5e975ebe",
+        "collectorName": "Marne Thorius",
+        "preferences": "abstract art",
+        "collectedArtworks": [
+            "60fe8576-0dc1-4f22-85b8-13937b24cdf3"
+        ]
+    },
+    {
+        "_id": "d7d7f530-efaf-4d7e-914e-ec1a1745e895",
+        "collectorName": "Teador Lerwill",
+        "preferences": "abstract art",
+        "collectedArtworks": [
+            "7afd0a3c-67b9-4747-b1eb-d24af1947511",
+            "c5b42a66-4d97-4cf1-bbc2-618b33ed4511"
+        ]
+    },
+    {
+        "_id": "8c508fce-06f9-4ac6-9796-df14a8331e7a",
+        "collectorName": "Burg Webborn",
+        "preferences": "pop art",
+        "collectedArtworks": [
+            "5a9a1f71-382d-45c4-9a06-e7ac2941924a"
+        ]
+    },
+    {
+        "_id": "85e46a5f-552c-419c-9225-798e0274b09b",
+        "collectorName": "Leticia McCowen",
+        "preferences": "minimalism",
+        "collectedArtworks": [
+            "04077046-5c78-4847-813a-8664f3f1f0c9",
+            "98ba456e-67f3-49c2-abe6-5e4d88eb7c37"
+        ]
+    },
+    {
+        "_id": "904d6bfc-87fb-4f2a-80be-7f402e0f30ee",
+        "collectorName": "Hadrian Burlay",
+        "preferences": "minimalism",
+        "collectedArtworks": [
+            "748b08a0-c746-4192-8997-278bb6ef5c79",
+            "e880ef21-def8-45a7-9a15-71f91c8573af",
+            "e94569a6-57d7-4cad-9978-cfd0f8a17177",
+            "6e0360d8-616c-4dd6-b1bd-3a712c72d657",
+            "0e9074c4-c1df-447e-b20f-2357174fc712"
+        ]
+    },
+    {
+        "_id": "b2dc0a75-73ad-4e42-8c27-f27eec7d0447",
+        "collectorName": "Gunar Pickett",
+        "preferences": "abstract art",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "c089729e-3e42-46bc-8f9a-352924ea3609",
+        "collectorName": "Billie Schutze",
+        "preferences": "street art",
+        "collectedArtworks": [
+            "b780b55b-80fe-4a8f-9100-4447853766f6",
+            "0e84f79f-623a-4c88-992b-84c101fbb8b0",
+            "4165f0f7-fd3d-421a-8668-5a6c05d4ca20",
+            "16b0ddf9-4c4a-48d8-accf-a81841b05bcf"
+        ]
+    },
+    {
+        "_id": "4d32ef0b-8266-4f4e-9340-1e3d94fbcf3c",
+        "collectorName": "Holmes Weatherup",
+        "preferences": "photography",
+        "collectedArtworks": [
+            "851bdce2-e21a-4dc7-8b24-5a7367fc2e8d"
+        ]
+    },
+    {
+        "_id": "36dfeb5a-cbc3-4c03-9d6c-23dce7b7aded",
+        "collectorName": "Wini Salman",
+        "preferences": "photography",
+        "collectedArtworks": [
+            "562ea66c-7dde-4e17-8dd5-9b0a2a303fb4"
+        ]
+    },
+    {
+        "_id": "cf555f53-8d13-4599-9996-56636a4ccf09",
+        "collectorName": "Janith Toy",
+        "preferences": "minimalism",
+        "collectedArtworks": [
+            "c708901a-8e81-4613-a6a8-43b78f12171d",
+            "afaf81ac-36c1-4e9f-acae-139de0a14866",
+            "5fdae1b7-bdb8-4b65-9271-d061028c3d0a",
+            "ab54293e-ee28-41ea-803d-29b3c82b4d4c",
+            "c89e2252-e1a2-4e07-b14b-12f8b604cc0f"
+        ]
+    },
+    {
+        "_id": "771a1ba1-ab55-4674-9798-e60c98705654",
+        "collectorName": "Paddy Ary",
+        "preferences": "impressionism",
+        "collectedArtworks": [
+            "2535be09-04b9-4b90-a49e-380a2958ac90",
+            "d89dfe31-4bdf-4db5-9b34-0b90a583cf86",
+            "77485dc0-fa10-43ae-bc98-f0fccce08e28",
+            "fe056ef4-2a1d-4d90-9b07-46a8f625030b"
+        ]
+    },
+    {
+        "_id": "264731d1-f223-47a6-aa53-24e950f2b3cb",
+        "collectorName": "Drew McCarly",
+        "preferences": "contemporary art",
+        "collectedArtworks": [
+            "85fb402b-12b4-49a3-90db-cac21be9714f",
+            "0e08e19f-baaa-47ed-958e-7de1bbada4b9",
+            "ee4f6416-a139-4ccb-ba25-44363c751c54"
+        ]
+    },
+    {
+        "_id": "759c5132-8bfe-426b-bcf9-696c465282df",
+        "collectorName": "Iosep Wisniewski",
+        "preferences": "landscape paintings",
+        "collectedArtworks": [
+            "97f96efb-fe53-46ae-bcbc-d6bf89ead40d"
+        ]
+    },
+    {
+        "_id": "2e0c85c3-3322-46b1-9dfe-ba56b99588d7",
+        "collectorName": "Janetta Longhorn",
+        "preferences": "minimalism",
+        "collectedArtworks": [
+            "d8a83483-76c3-4bc9-9366-c31901ca8dd9",
+            "94ee1456-6bf2-4c91-bab9-8b26e0df2a0a"
+        ]
+    },
+    {
+        "_id": "a714adfa-a59b-4f65-af6e-214b370c795b",
+        "collectorName": "Agathe Donaho",
+        "preferences": "pop art",
+        "collectedArtworks": [
+            "e9f060cf-2410-41f4-a97f-18e36eb701b9",
+            "877e1c42-412d-467c-acd0-45e53cd9e9bd"
+        ]
+    },
+    {
+        "_id": "b033c4b4-3f6f-4ba3-a4cd-6bdeae111f78",
+        "collectorName": "Stormi Allcoat",
+        "preferences": "landscape paintings",
+        "collectedArtworks": [
+            "4ca4344b-2167-4b30-8665-fb91bb6dc13e"
+        ]
+    },
+    {
+        "_id": "becedd29-9414-45b9-b8c3-b99e537b829b",
+        "collectorName": "Peterus Adin",
+        "preferences": "modern art",
+        "collectedArtworks": [
+            "5b276f8e-8081-4e99-8e94-d4cd021ef38e",
+            "21aa2bd3-5738-4ede-9ae2-1ed85d39753d",
+            "dbda3678-8c8c-4d0e-8d74-b0524ba10fc7",
+            "4c8868e5-60c4-4588-9e58-08e4854ddf09"
+        ]
+    },
+    {
+        "_id": "13b45c5a-eb01-414c-a14e-c4e42dce2692",
+        "collectorName": "Georgie Sidery",
+        "preferences": "minimalism",
+        "collectedArtworks": [
+            "b99d23eb-37d7-458a-a244-744d03d614b4",
+            "a324c8d2-ad30-4035-bf3c-103673b70c58",
+            "d3274a85-16fb-4e6f-a5ef-a4d80d2a181c",
+            "20abc9bb-5fec-429f-aeaf-7c539046dc5e",
+            "f9223554-1d29-4a62-a208-1e96710befe9"
+        ]
+    },
+    {
+        "_id": "7e097152-36b3-4b04-9c38-024d7410a415",
+        "collectorName": "Leon Mulmuray",
+        "preferences": "modern art",
+        "collectedArtworks": [
+            "ced474db-240e-47f3-9346-9ad0bb56dd40",
+            "42844415-c255-47c7-9984-8b02699a9155"
+        ]
+    },
+    {
+        "_id": "b54f343a-1074-43e8-ae34-e9bf64854878",
+        "collectorName": "Woodman Stump",
+        "preferences": "sculptures",
+        "collectedArtworks": [
+            "34890123-2e84-4f38-839c-8917c3b073ae",
+            "82cb79c2-4002-46e6-8530-4f64acb23621"
+        ]
+    },
+    {
+        "_id": "ffe4e63d-3caa-45c3-8465-c7e534887872",
+        "collectorName": "Guthry Steiner",
+        "preferences": "minimalism",
+        "collectedArtworks": [
+            "8d6a6d8a-4111-4f3b-bfb7-117df81ef34c",
+            "b6d4b9e5-6b93-4934-aced-b891fd920a4e",
+            "f9512c46-d13f-4c44-90b1-3d871c390ee8"
+        ]
+    },
+    {
+        "_id": "7829a48e-5dba-4d8f-be6f-8865d6e80461",
+        "collectorName": "Marcile Mountjoy",
+        "preferences": "street art",
+        "collectedArtworks": [
+            "8066d0b8-69fd-4b9d-aad0-97b3a3c13a4d",
+            "b73460a7-0d1f-4e17-81d7-871fd94ea7d3",
+            "393bea66-4405-4ef4-86c6-ab8a15b16f09"
+        ]
+    },
+    {
+        "_id": "213f6401-24f1-4b04-b4cb-70b13663a8ff",
+        "collectorName": "Collen Benedidick",
+        "preferences": "contemporary art",
+        "collectedArtworks": []
+    },
+    {
+        "_id": "cfa17430-7084-4469-bd67-477151286d4e",
+        "collectorName": "Kailey Eddis",
+        "preferences": "contemporary art",
+        "collectedArtworks": [
+            "5ad6c3f5-cb79-424a-a73b-874b269384a9",
+            "e2a5616e-c144-49c3-b66c-426acf3a8c26",
+            "80bd2d61-47d9-4806-a3aa-a3a2558393c2"
+        ]
+    },
+    {
+        "_id": "f6c5821c-c188-487e-bce4-fd5de3391ed6",
+        "collectorName": "Rora Dunbleton",
+        "preferences": "street art",
+        "collectedArtworks": [
+            "57b470ed-f432-43d2-ae8f-874a64a997cb",
+            "22cca8db-9c68-4767-9827-c0f75489f5bf"
+        ]
+    },
+    {
+        "_id": "ec2665db-944d-483b-b242-e91b8d821353",
+        "collectorName": "Jennee Spensly",
+        "preferences": "sculptures",
+        "collectedArtworks": [
+            "f3621d90-2d6a-466b-b9fa-00a4d7140256",
+            "6fa2fd66-47a6-41d2-882e-37815e8470f0",
+            "57155d09-774e-4427-9660-21c477c1f328"
+        ]
+    },
+    {
+        "_id": "75d0aced-d581-4143-9e63-4bcc79dbd67c",
+        "collectorName": "Pet Ielden",
+        "preferences": "landscape paintings",
+        "collectedArtworks": [
+            "7409c910-bce2-43a9-8a3b-4b93d5ae6556",
+            "672c0ba6-4d4f-4bc6-be28-fd6ea9d8b954"
+        ]
+    },
+    {
+        "_id": "cc0896fe-bc85-45a5-a92e-ab76ceb86f2f",
+        "collectorName": "Grady Kirtland",
+        "preferences": "minimalism",
+        "collectedArtworks": [
+            "1ed42f98-1627-4381-a0ad-30283e23c30e",
+            "73ba8522-9a2e-4fd9-b05b-395277e5323d",
+            "e1198bd5-b9f4-4c8b-ad68-cbdee6b5d8a5",
+            "47b60a40-f0a0-4786-ab6e-d855c3bab184"
+        ]
+    }
+]
